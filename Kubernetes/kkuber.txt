@@ -1,0 +1,90 @@
+
+
+kubectl get pod
+kubectl run nginx --image=nginx
+kubectl describe pod  vs kubectl describe pod nginx | grep -i image
+
+kubectl get pods -o wide
+
+kubectl run redis --image=redis123 --dryrun=client -o yaml > pod.yaml
+
+kubectl apply/create -f pod.yaml
+
+kubectl replace -f replicaset.yaml
+
+kubectl scale -replica=6 replicaset.yaml
+
+kubectl rollout status deployment/myapp-deployment
+
+kubectl rollout undo deployment/myapp-deployment
+
+kubectl rollout history deployment/myapp-deployment
+
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: postgres
+  labels:
+    tier: db-tier
+spec:
+  containers:
+    - name: postgres
+      image: postgres
+      env:
+        - name: POSTGRES_PASSWORD
+          value: mysecretpassword
+
+
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: frontend
+  labels:
+    app: mywebsite
+    tier: frontend
+spec:
+  replicas: 4
+  template:
+    metadata:
+      name: myapp-pod
+      labels:
+        app: myapp
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
+  selector:
+    matchLabels:
+      app: myapp
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend
+  labels:
+    app: mywebsite
+    tier: frontend
+spec:
+  replicas: 4
+  template:
+    metadata:
+      name: myapp-pod
+      labels:
+        app: myapp
+    spec:
+      containers:
+        - name: nginx
+          image: nginx
+  selector:
+    matchLabels:
+      app: myapp
+      app: myapp
+
+  Normal   Created    110s                kubelet            Created container nginx
+  Normal   Started    110s                kubelet            Started container nginx
+  Normal   Pulling    70s (x3 over 110s)  kubelet            Pulling image "agentx"
+  Warning  Failed     70s (x3 over 109s)  kubelet            Failed to pull image "agentx": rpc error: code = Unknown desc = Error response from daemon: pull access denied for agentx, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
+  Warning  Failed     70s (x3 over 109s)  kubelet            Error: ErrImagePull
+  Normal   BackOff    31s (x6 over 109s)  kubelet            Back-off pulling image "agentx"
+  Warning  Failed     31s (x6 over 109s)  kubelet            Error: ImagePullBackOff

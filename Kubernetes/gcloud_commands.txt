@@ -1,0 +1,170 @@
+
+***** Cluster configuration ****************************************************************
+
+*********************************************************************************************
+gcloud config set project focused-world-378515
+
+gcloud config set compute/region us-central1
+
+gcloud config set compute/zone us-central1-a
+
+
+gcloud services enable container.googleapis.com
+
+
+gcloud container clusters create kube-cluster --num-nodes=2
+
+gcloud compute instances list
+
+gcloud container clusters list
+
+gcloud container clusters resize kube-cluster --zone=us-central1-a --num-nodes 3
+
+gcloud container clusters delete kube-cluster
+
+
+gcloud compute instances create example-instance-1 --zone=us-central1-a
+
+kubectl run wordpress --image=tutum/wordpress --port=80
+
+ In case of this error
+The connection to the server localhost:8080 was refused - did you specify the right host or port?
+
+gcloud container clusters get-credentials kube-cluster --zone=us-central1-a
+
+**************************************************************************************************
+
+kubectl expose pod wordpress --type=LoadBalancer
+
+**********************************************************************************************
+
+Bigtable
+
+******************************************************************************
+
+curl -f -O https://storage.googleapis.com/cloud-bigtable/quickstart/GoogleCloudBigtable-Quickstart-0.9.7.1.zip
+https://cloud.google.com/bigtable/docs/quickstart-hbase
+
+
+docker pull ubuntu/nginx
+
+
+github.com/naresh240/kubernetes
+
+
+httpd-55cc48b46b-dqg7p
+
+containerd://a44824e3490ceac8e0f3db4f351e49cfd133ec8b0f455a29c0817d1bc9fdd32f
+
+kubectl exec -it httpd-55cc48b46b-dqg7p -c containerd://a44824e3490ceac8e0f3db4f351e49cfd133ec8b0f455a29c0817d1bc9fdd32f bash 
+
+kubectl exec -it httpd-55cc48b46b-f5wm6 -c httpd bash
+
+class 61 - PVC
+
+
+Traffic management:
+
+kubectl port-forward 	svc <<service-name>> 8900
+
+curl localhost 8900
+
+kubectl exec -it <<pod-name>> -c bash --curl 
+
+luksa/kubia:v1
+
+gcloud container clusters update kube-cluster --update-addons=NetworkPolicy=ENABLED
+
+gcloud container clusters update kube-cluster --enable-network-policy
+
+
+kubectl get pods --namespace=kube-system
+
+gcloud container clusters create kube-cluster \
+    --region=us-central1 \
+    --enable-ip-alias \
+    --cluster-ipv4-cidr=10.0.0.0/14 \
+    --services-ipv4-cidr=10.4.0.0/19
+
+****** Certificate installation procedure ********************************************************
+
+openssl genrsa -out rsundar.key 2048
+
+openssl req -new -key rsundar.key -out rsundar.csr -subj "/CN=rsundar/O=project-1"
+
+cat rsundar.csr | base64 | tr -d "\n"
+
+kubectl get csr
+
+**************************************************************************************************************************
+
+cat <<EOF | kubectl apply -f -
+apiVersion: certificates.k8s.io/v1
+kind: CertificateSigningRequest
+metadata:
+  name: rsundar
+spec:
+  request:    
+  signerName: kubernetes.io/kube-apiserver-client
+  expirationSeconds: 86400  # one day
+  usages:
+  - client auth
+EOF
+
+
+**************************************************************************************************************************
+
+kubectl certificate approve rsundar
+
+kubectl get csr/rsundar -o yaml
+
+The certificate value is in Base64-encoded format under status.certificate.
+
+kubectl get csr rsundar -o jsonpath='{.status.certificate}'| base64 -d > rsundar.crt
+
+kubectl config set-credentials rsundar --client-key=rsundar.key --client-certificate=rsundar.crt --embed-certs=true
+
+***************************************************************************************************************************
+
+kubectl create role guest_role --verb=create --verb=get --verb=list --verb=update --verb=delete --resource=pods
+
+kubectl create rolebinding developer-binding-rsundar --role=guest_role  --user=rsundar
+
+***************************************************************************************************************************
+
+kubectl config set-context rsundar --cluster=kubernetes --user=rsundar
+
+kubectl config use-context rsundar
+
+*****
+
+
+
+
+
+
+
+
+cat rsundar.crt
+
+cp ~/.kube/config rsundar-kubeconfig
+
+kubectl --kubeconfig rsundar-kubeconfig config set-credentials rsundar --client-key=rsundar.key --client-certificate=rsundar.crt --embed-certs=true
+
+kubectl config set-credentials rsundar --client-key=rsundar.key --client-certificate=rsundar.crt --embed-certs=true
+
+
+kubectl --kubeconfig rsundar-kubeconfig config set-context rsundar --cluster=kubernetes --user=rsundar
+
+
+Copy this and put it in the certification request yaml file.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,543 @@
+DevOps
+
+Git  
+Jenkins  
+Ansible  
+Chef  
+Docker  
+Kubernetes  
+Packer  
+Terraform  
+Maven  
+Ant  
+Elk  
+Shell scripting  
+Nagios  
+Vagrant &  
+Puppet
+
+DevOps part 1
+https://drive.google.com/drive/folders/1JfQMk-UNT1mT-pJKOuaPc8fpCrB1uTUR?usp=sharing
+
+DevOps part 2
+https://drive.google.com/drive/folders/1PYmYPHZF3Nakej73XuSJTthi3Dzyx47J?usp=sharing
+
+DevOps part 3
+https://drive.google.com/drive/folders/1PXFSE95DKwKYHr7KSvMorBzDVWcV4WpW?usp=sharing
+
+
+***** ***** *****
+
+AWS Certified DevOps Engineer - Professional 2020
+
+  AWS certified Cloud practitioner
+
+  AWS certified Sysops Admin - Associate
+
+  AWS Certified SysOps Administrator - Associate 2020
+
+  AWS Certified Solutions Architect Associate 2020
+
+  AWS certified Developer - Associate
+
+  AWS certified solutions architect - Associate
+
+  AWS Certified DevOps Engineer - Professional 2020
+
+  AWS Certified Machine Learning – Specialty
+
+Free : Google Certified Professional Cloud Network Engineer (2020) :GCP
+
+***** ***** *****
+
+
+Part 1 :
+https://drive.google.com/drive/folders/1uO85-AwDn_509stMvF9mo_YsNqg8YsIj?usp=sharing
+
+Part 2 :
+https://drive.google.com/drive/folders/1YLJ9GDtxQwsNIRMKHbTgY2BSjl_vTbXY?usp=sharing
+
+Part 3 : & AWs package
+https://drive.google.com/drive/folders/1t1EMJ52vruYMzIbG-ohTHKK10CTJdQYk?usp=sharing
+
+
+
+***** ***** *****
+
+
+Aws dumps - previous Exam papers - which is useful to help for certification
+Aws practice manuals - Zipped
+
+Part 4 :
+
+https://drive.google.com/file/d/1OUJaNPXajk4iTaGdY1cAQU8RZ3wphqUk/view?usp=sharing
+
+Part 5 :
+https://drive.google.com/file/d/1mZP69glnoixwGs9jaNwAGxnRgUId7Q2f/view?usp=sharing
+
+Part 6 :
+https://drive.google.com/file/d/1y5h12xzSdqaDp1JomeeQweJ5bzRZLzJs/view?usp=sharing
+
+
+***** ***** *****
+PRACTICE GUIDES
+
+https://drive.google.com/drive/folders/1_CPt-SkuUJenqw2PUfQVM0nLt1Voy-aF?usp=sharing
+
+
+AWS LAB
+
+https://drive.google.com/drive/folders/19RaK7qknWrZ2qwGIvSWjHkuokHp_QAJ6?usp=sharing
+
+
+DevOps LAB
+
+https://drive.google.com/file/d/1rUwuiWbrHo1yRg17zAoMd3tE4quqozws/view?usp=sharing
+
+AZURE LAB
+
+https://drive.google.com/file/d/1mCfIG5AScVwG9IlCX-SYAZZqvYoqoFTn/view?usp=sharing
+
+
+***** ***** *****
+
+
+Q bank ( 200 pages) :
+
+https://drive.google.com/file/d/1aF6eh026py_YXJuMZCOKXA0_6xvrrQGZ/view?usp=sharing
+
+AWS Interview Q bank
+
+https://drive.google.com/file/d/1sL0rGMWFO12WYbofrAl3GSh3ckGT3hE1/view?usp=sharing
+
+
+Telephonic
+
+https://drive.google.com/file/d/1dH1VW0hkUY5tZ4coQzSUv9FzfaJvnutU/view?usp=sharing
+
+
+sample Resumes :
+
+https://drive.google.com/file/d/10qNn_k3P71M_5N8IqQFcMY19tplXCFVD/view?usp=sharing
+
+
+CV  Template :
+
+https://drive.google.com/drive/folders/0BxNhgNJNXG-VY2pVNTNxOFF2Qlk
+
+***** ***** *****
+
+Interview Discussion
+LEVEL 2 :
+Interview Discussion
+
+LEVEL 2 :
+
+https://drive.google.com/drive/folders/1I7Zzaue1zbZxiSJTnptDrZjgvJB7Aeyv?usp=sharing
+
+Upgrade at 
+
+NOT INCLUDED in this package  Buy at :  https://imojo.in/AWSDevopsInterviewGuide
+
+--------------UPGRADED COURSES----------------------------
+
+1️⃣  DevSecOps - Package   1.97GB
+    https://drive.google.com/drive/folders/1zrGS45ifRqg72BDp8dy8d3J06YwsVUUy?usp=sharing
+
+
+2️⃣  Red Hat CERTIFIED ENGINEER (RHEL 8 RHCE) 3.12GB
+ttps://drive.google.com/drive/folders/1Mn6IPefsUFKId8dVhgze9JnXMogZ-XqE?usp=sharing
+ 
+3️⃣  AWS Security Best Practices   .63 GB
+
+https://drive.google.com/drive/folders/1zRODCZZbYYemwzNC22pyETvl_ucdaBAL?usp=sharing
+
+4️⃣  Kubernetes Fundamentals ( David ) . 45 GB
+https://drive.google.com/drive/folders/1PDZHtJQ_Jug6lpHgvk6TQRXos2SBtHQA?usp=sharing
+
+5️⃣  Kubernetes - complete deep dive ( David ) .65 GB
+
+https://drive.google.com/drive/folders/12YYXSGQx-V9c-wnYa7SojjkwN1bXLEGW?usp=sharing
+
+6️⃣  GCP -  Google Certified Professional Data Engineer 2.55 GB
+
+https://drive.google.com/drive/folders/1nNozciSWpzGzr_l9CIg0l9ibjo_W-L-3?usp=sharing
+
+7️⃣  GCP -  Google Certified Professional Data Engineer 2.55 GB
+
+https://drive.google.com/drive/folders/1nNozciSWpzGzr_l9CIg0l9ibjo_W-L-3?usp=sharing
+
+7️⃣  GCP -  Google Certified Professional Cloud Architect (2020) 1.74 GB
+
+https://drive.google.com/drive/folders/1_x7FWN2qLK6EE0kGKgMjvY4K-kl3SWQo?usp=sharing
+
+
+***** ***** *****
+
+Complimentary Course
+
+AZURE  DEVOPS 2020  :
+
+https://drive.google.com/drive/folders/15950fuiU0F5oB4znesQ0gMqiaFTh6B_l?usp=sharing
+
+https://drive.google.com/file/d/0B-fMIDSRxJ_4cGRjRmdfQUlHUDQ/view
+
+
+Master Class  : Python & ML 
+https://drive.google.com/drive/folders/1i3jXi0o-COk7L9Mfrg55Ysae8cdEIAHU?usp=sharing
+
+
+***** ***** *****
+
+
+Discussion forum
+https://groups.google.com/d/msgid/jenkinsci-dev/4ad4dc34-36d6-4f87-b28b-9d0858e9c68fn%40googlegroups.com?utm_medium=email&utm_source=footer
+
+Jobs forum
+
+Email List- https://groups.google.com/forum/#!forum/jobupdatesindia
+
+
+
+***** ***** *****
+Regular New Jobs contact update :
+
+
+https://drive.google.com/file/d/1fPH3PMWpOo4FWSa9dDZocDxVqzXN2lgL/view
+
+--------------------------------------------
+
+MUST CC : referMyjobs@hotmail.com on all your Emails
+
+
+Subject : Skillset & Experience in Years
+
+***** ***** *******
+include in your Email:
+
+First Name
+Last Name
+DOB
+Phone Number
+Email
+Skillset
+Exp
+Current company
+Current Location
+Visa Type
+Resume as PDF
+--------------------------------------------
+
+***** ***** ***** Quick access : topic wise content  ***** ***** *****
+
+
+
+Docker :
+https://drive.google.com/drive/folders/1OdyZt-lyUmsxZ0JzRJCq-wW6JpCm1CL_?usp=sharing
+
+GIT
+https://drive.google.com/drive/folders/1hZP62G8IKLLH9ygZIqJgXnIWXr1HNKYi?usp=sharing
+
+Jenkins
+https://drive.google.com/drive/folders/1yTbaGScjjposp15YScJDVxkXnB1aA-vj?usp=sharing
+
+Kubernetes
+https://drive.google.com/drive/folders/1wx13Abt2U1YSCfM_RuvVFx8PwTMThN7S?usp=sharing
+
+packer & Terraform :
+https://drive.google.com/drive/folders/1-6DHrVLzGEt9BUdGP4fAdOpwIUn9HMUp?usp=sharing
+
+
+Docs:
+https://drive.google.com/drive/folders/1VC2urJ73R_kqt9ciYW3euQu2XzsI1M2Y?usp=sharing
+ 
+Puppet
+https://drive.google.com/drive/folders/17Oh8ieaQvlsoTSb9JBthhERKcu32IQgS?usp=sharing
+ 
+Linux
+https://drive.google.com/drive/folders/1N1IsY7ZcByOHWcK7Al5nXf-3ocxXYd_a?usp=sharing
+
+***** ***** *****
+
+**Tricks to get latest Job direct from recruiter***
+
+Click on the link..
+
+1)  Follow the organisation
+2)  explore the jobs page
+3) Now start building  network
+4) try adding folks from organizations
+5) based on 2nd 3rd level of connections you will get suggestions
+
+
+
+BNY Mellon
+
+https://www.linkedin.com/mwlite/company/bny-mellon
+
+
+Bank of America ( BOA or BofA)
+
+https://www.linkedin.com/mwlite/company/bank-of-america
+
+
+
+Edge vere / finacle / infosys
+
+
+https://www.linkedin.com/mwlite/company/edgeverve
+
+
+https://www.linkedin.com/mwlite/company/infosys
+
+
+Deutsche Bank
+
+https://www.linkedin.com/mwlite/company/deutsche-bank
+
+
+Accenture
+
+https://www.linkedin.com/mwlite/company/accenture
+
+Citi groups
+
+https://www.linkedin.com/mwlite/company/citi
+
+State street HCL services
+
+https://www.linkedin.com/mwlite/company/statestreet-hcl-services-india-private-limited
+
+Deloitte
+
+https://www.linkedin.com/mwlite/company/deloitte
+
+
+IBM
+
+https://www.linkedin.com/mwlite/company/ibm
+
+BNP Paribas
+
+https://www.linkedin.com/mwlite/company/bnp-paribas
+
+
+Credit Suisse bank
+
+https://www.linkedin.com/mwlite/company/credit-suisse
+
+Genpact
+
+https://www.linkedin.com/mwlite/company/genpact
+
+
+
+Barclays
+
+https://www.linkedin.com/mwlite/company/barclays-bank
+
+
+Gen pact | headstrong
+
+
+https://www.linkedin.com/mwlite/company/headstrong
+
+
+DTCC
+
+https://www.linkedin.com/mwlite/company/dtcc
+
+Fidelity Investments
+
+https://www.linkedin.com/mwlite/company/fidelity-investments
+
+
+
+Walters kluwer
+
+https://www.linkedin.com/mwlite/company/wolters-kluwer
+
+Oracle
+
+https://www.linkedin.com/mwlite/company/oracle
+
+The world bank group
+
+https://www.linkedin.com/mwlite/company/the-world-bank
+
+
+KPMG
+
+https://www.linkedin.com/mwlite/company/kpmg
+
+DBS BANK
+
+https://www.linkedin.com/mwlite/company/dbs-bank
+
+
+Wells Fargo
+
+https://www.linkedin.com/mwlite/company/wellsfargo
+
+Goldman Sachs
+
+https://www.linkedin.com/mwlite/company/goldman-sachs
+
+PWC
+
+https://www.linkedin.com/mwlite/company/pwc
+
+
+HSBC
+
+https://www.linkedin.com/mwlite/company/hsbc
+
+J P morgan
+
+https://www.linkedin.com/mwlite/company/jpmorgan
+
+
+UBS
+
+https://www.linkedin.com/mwlite/company/1214
+
+
+Morgan Stanley
+
+https://www.linkedin.com/mwlite/company/morgan-stanley
+
+Thomson Reuters
+
+https://www.linkedin.com/mwlite/company/thomson-reuters
+
+
+
+Pwc
+
+https://www.linkedin.com/mwlite/company/pwc
+
+Wells Fargo
+
+https://www.linkedin.com/mwlite/company/wellsfargo
+
+
+Societe generale
+
+https://www.linkedin.com/mwlite/company/societe-generale
+
+***** ***** ********** ***** ********** ***** ********** ***** *********
+For Job  
+include in your Email
+
+-------------------------------------
+First Name :
+Last  Name :
+DOB eg., format DD-Month-Year :
+Skillset & Experience :
+Phone Number  :
+Email address :
+Current location :
+Current Company :
+Resume as Attachment : Y/N
+PAN Number ( Not Mandatory ) :
+Last College / University Name :
+Current CTC :
+Expected CTC :
+Willingness to Relocate : Y/N
+Notice Period :
+-------------------------------------
+
+Remember to Name subject of the group as
+"Skillset & Experience"
+
+
+for Reference
+
+please cc: refermyjobs@hotmail.com
+please bcc:
+
+0507nidhigoyal@gmail.com, 11.puneet@gmail.com, 21lakshm@gmail.com, achhatre@midmark.com, alex.joy@wns.com, amaran.ss@visionet.com, amarnath.raju@accenture.com, anju.john@infosys.com, anshu.rai@parasdairy.com, anurag.bothra@se.com, apoorva.asthana@in.ey.com, ashishj.pandey@lntinfotech.com, ashvini.bamgude@rblbank.com, athar.khan@mphasis.com, avadhesh.s@hcl.com, balakrishna.srinivasachar@gmail.com, balakrishna.srinivasachar@gmail.com, bcom.avinash@gmail.com, bharat.sharma@bpsanalytics.in, refermyresume@hotmail.com,   bhaskar.h@visionet.com, bhaskar.h@visionet.com, bhavya.adhikari@gds.ey.com, chintan@nareshco.com, camansibhatia@gmail.com, chetan121.ca@gmail.com, djain@antal.com, ds00628332@techmahindra.com, danish.md@quesscorp.com, darshana.gangadharan@cognizant.com, deepam@green-tree.in, refermyresume@hotmail.com,   dinakarajan.vaiyapuri@csscorp.com, dnyaneshwar.patil@lntinfotech.com, ganesh.balakrishnaniyer@citi.com, gayathri.29@wipro.com, girish.s1@gds.ey.com, harinath.rao@viteos.com
+
+harisha.mv4@gmail.com, harjeet.grover@skillventory.com, harkanwal.riar@cars24.com, harsha.r@indecomm.net, hitesh.joshi@biggpocket.com, india.shiba@bizlynx.biz, info@werouteglobal.com, investmentbankingforum@gmail.com, ishani@green-tree.in, refermyresume@hotmail.com,   jvyas@antal.com, jainhimanshu1901@gmail.com, jaini.saraiya@asia.bnpparibas.com, jan03aman@gmail.com, jayasree@ingenuityinc.co.in, refermyresume@hotmail.com,   jose@covenantindia.net, joyprincy.sebastian@hcl.com, joyprincy.sebastian@hcl.com, jvyas@antal.com, kaiser.baig@exlservice.com, kanandjiwala@deloitte.com, karen.rodricks@relianceada.com, karthik.bm7777@gmail.com, kaushal3004@gmail.com, kaushik.ashish@tcs.com, komala.d@hsbc.co.in, refermyresume@hotmail.com,   kuldeep.agarwal@db.com, kushal.arora.5@gmail.com, lakshmipr@hcl.com, megha@tdnewton.com, melvin.raj@mphasis.com, mohammedthaha.a@cognizant.com, mohankumar.n@protivitiglobal.in, refermyresume@hotmail.com,   monica.t21@wipro.com, monika_j@infosys.com, naresh_4477@yahoo.com, neha.jahagirdar@mphasis.com
+
+neha.saluja@v-konnect.com, nikhil.daware@credit-suisse.com, nishida.kunder@eclerx.com, nk155@ntrs.com, noor.shaikh@randstad.in, refermyresume@hotmail.com,   orcapod.shilpee@gmail.com, parth.desai@asia.bnpparibas.com, parth.j.desai@asia.bnpparibas.com, pavankumar.mhsd@cognizant.com, poojanaik0409@gmail.com, pratiksha@credencehrservices.com, pratima.mathi@jpmchase.com, pravin.dahake168@gmail.com, preeti.awale@in.ey.com, priya.venugopal1@tcs.com, priya.vernekar@magna.in, refermyresume@hotmail.com,   priya.vittal@rbs.com, priyanka.nayak@gds.ey.com, puneethd23@gmail.com, ragunath.gunasekaran@asia.bnpparibas.com, rahulghorawat@gmail.com, rajni_burman@hcl.com, rajusurisetti@kpmg.com, rajveersinghr1@equitasbank.com, ram.prashanth@hcl.com, rashmi.mall@firstsource.com, refermyresume@hotmail.com, reshma.kirang@wellsfargo.com, resume..kalyani.mitra@wipro.com, rghorawat@mmcindia.biz, ridhma.bhan@in.ey.com, saikiran.c@cognizant.com, sakshi23@green-tree.in, refermyresume@hotmail.com,   sankeerthana@whyflexhcs.in, refermyresume@hotmail.com,   sathish18849@gmail.com, shahnawaz.zafar@luconconsulting.com
+
+sharma.csshivani@gmail.com, shelkea524@gmail.com, shelkea@524gmail.com, shikha.bisht@anacapfp.com, shivangi.jain@antal.com, shweta.jha@evalueserve.com, simran.sabharwal@ambitcollective.com, sneha.b6@tcs.com, sonal@sellcraft.net, sreeja.pillai@morganstanley.com, steffi.gard@eclerx.com, subashri.murugan@tcs.com, subhashree.lingala@tcs.com, suchetha@wizecareers.com, sumaiya1009@gmail.com, sumitha.sridharan@infosys.com, sumithasri1990@gmail.com, sureshkv155@gmail.com,abanti.ganguly@careernet.co.in, refermyresume@hotmail.com,    suryakant.khuntia@adventz.com, swati.bhawar@wns.com, swatiinibm@gmail.com, sws12@ntrs.com, taral.oza@skfin.net, tarun77sharmahr@gmail.com, tej.shekhawat@idfcbank.com, tejaswini.r@refinitiv.com, thamil.malar.k@walmartlabs.com, tulika.srivastava@edelweissfin.com, urvashi.dubey@morganstanley.com, utsav_dalmia@yahoo.com, varundabral@kpmg.com, venkataraman.g@rotork.com, vigram23@in.ibm.com, vignesh.balachandran@accenture.com, vigram23@in.ibm.com, vikash.churiwal@srb.in
+
+vikash.baid@wns.com, vimal.jayaraj@invesco.com, vishakhajham19@gmail.com, vishnu@hcl.com, viswarao90@gmail.com, viswanathan_s07@infosys.com, viswanathan_s07@infosys.com, yashaswini.babu@accenture.com, a.bansal@ausipa.education, a_monjima.bora@airtel.com, aakanksha.ybhr@gmail.com, aakansha.srivastava@capita.com, aakash.a.shah@pwc.com, aakash.verma@accoliteindia.com, aakritisaxena@kpmg.com, aarthin@ramsolcorp.com, aasiya@careeroneindia.com, abanti.ganguly@careernet.co.in, refermyresume@hotmail.com,   abburisrikanth2.61a@gmail.com, abc109@abcconsultants.in, refermyresume@hotmail.com,   abc110@abcconsultants.in, refermyresume@hotmail.com,   abhijit@credencehrservices.com, abhilash.p@kggroup.com, abhilasha.srivastava@qualityneedles.com, abhishek.ac@udaan.com, abhishek.singh@infinte.com, abinaya.r@twsol.com, abirami.kaliyamoorthy@cognizant.com, abirami.rsk@citi.com, abirami4cogno@gmail.com, abishekv@hcl.com, abraham.s@thirdware.com, acculogix.alva@daimler.com, achhatre@midmark.com, adeb3@statestreet.com, aditi.joshi@indiraisbs.ac.in
+
+aditi.k@elementsmanpower.com, aditi@tdnewton.com, aditya.verma@amedussolutions.com, admin1@gatewayvisas.com, aftab.a@pacific.co.in, refermyresume@hotmail.com,   agarkuldeep@gmail.com, ahmedabad@jckca.in, refermyresume@hotmail.com,   ahmedkhan.b@objectwin.com, ahmedwalija@gmail.com, aiswarya.lakshmi@careernet.co.in, refermyresume@hotmail.com,   aiswarya.r@turnkey-ts.com, ajay@rebaca.com, ajgreenflag@gmail.com, ajithsamkumar.n@htcindia.com, ajitkammar@gmail.com, akanksha.mishra@jpmchase.com, akankshas@policybazaar.com, akash.m@nexplaceinfo.com, akhila.setti@careernet.co.in, refermyresume@hotmail.com,   akhnoor.mohan@gmail.com, akodaparthi@deloitte.com, akshay.k@focusite.com, akshi.bhagat@teamhgs.com, aksinfotek@gmail.com, albertmukta93@gmail.com, alex.joy@wns.com, allan.sethi@wns.com, almas.jalal@careernet.co.in, refermyresume@hotmail.com,   alok.gupta@aviom.in, refermyresume@hotmail.com,   alok@proliant.co.in, refermyresume@hotmail.com,   amarnath.raju@accenture.com, aminikathuria40@gmail.com, amit.sharma.mum@sampoorna.com, amrit@cashkaro.com, amrutamhatre2160@gmail.com, anamika@expedux.com
+
+anamika@expedux.com, anand.aj@zohocorp.com, anandik@cbsiglobal.com, anandsingh1303@gmail.com, angargco@gmail.com, angel.j@thomasmount.com, angel.s@bnymellon.com, angelin@krgtech.com, anilvr009@gmail.com, anitha.an@orchestrate.com, anitha.c@joulestowatts.com, anitha@bbspl.in, refermyresume@hotmail.com,   anitha@e2einfoware.com, anithasrinivasan215@gmail.com, anjali.jain@careernet.co.in, refermyresume@hotmail.com,   anjali.varshney@hcl.com, anju.john@infosys.com, anjum.shaikh4@wns.com, ankit.attal@in.gt.com, ankita.b.das@capgemini.com, ankita.s@jconnect.in, refermyresume@hotmail.com,   ankita.sen@protivitiglobal.in, refermyresume@hotmail.com,   ankita.thakur@infobeans.com, ankita@credencehrservices.com, ankitjha67@gmail.com, ankush@equitos.co.in, refermyresume@hotmail.com,   anshu.rai@parasdairy.com, anshu@tdnewton.com, antima@acctpro.in, refermyresume@hotmail.com,   antsaha@deloitte.com, anubhuti.ganguly@talenthome.in, refermyresume@hotmail.com,   anuj.dhawan@anacapfp.com, anuradha.bn@microgreentech.com, anuradha.smva@gmail.com, anurag.bothra@se.com, anurag.sharma.gpk@gmail.com
+
+anureeta.lal@skillstaffing.in, refermyresume@hotmail.com,   anusha.g@nityo.com, anusha.k@randstad.in, refermyresume@hotmail.com,   anusha.techera@outlook.com, anusha@talentthrill.com, anushaamar123@gmail.com, anushan@cbsiglobal.com, anushiya.p@randstad.in, refermyresume@hotmail.com,   anushree.panda@accenture.com, anushri.s@apar.com, anvithcgowda1997@gmail.com, anwar.shaik@chegg.com, apoddar@csc.com, apoorva.asthana@in.ey.com, apply@technojobz.com, apurva.naik@careernet.co.in, refermyresume@hotmail.com,   aravindd@superiorgroup.in, refermyresume@hotmail.com,   aravindhan.v@alpconsulting.in, refermyresume@hotmail.com,   archana.ashwath@careernet.co.in, refermyresume@hotmail.com,   archana@jobworldindia.com, archana@newgenit.com, archana@theedgeinasia.com, archna.singh@adecco.com, arex@antal.com, arjunaggarwal10@gmail.com, arpit.g@pacific.co.in, refermyresume@hotmail.com,   arpitd@tblocks.com, arshad.h@aequor.com, arsheen.a.khan@accenture.com, aruban@sensiple.com, arul.mozhi@venpastaffing.com, arul@prioconsulting.com, arun.balasubramanian@careernet.co.in, refermyresume@hotmail.com,   arun.singh@ravsoftsolutions.com, arun60087@gmail.com, arunkrishnad@newtglobal.com
+
+arushi.r@flatworldsolutions.com, arya@timetronic.in, refermyresume@hotmail.com,   asawari.upasani@alikethoughts.com, asgupta@better.com, asheesh.pillay@cesltd.com, ashish@spectraconsulting.in, refermyresume@hotmail.com,   ashishj.pandey@lntinfotech.com, ashitha.raj@nityo.com, ashlesha.s@skilld.in, refermyresume@hotmail.com,   ashleshabhadoria@michaelpage.co.in, refermyresume@hotmail.com,   ashok@cssrecruit.com, ashutosh.p@pacific.co.in, refermyresume@hotmail.com,   ashvini.bamgude@rblbank.com, ashwini.parkar@janabank.com, asma.sadual@capgemini.com, aspha.mohanty@ltts.com, asst.jobs@gmail.com, aswa.oxilum@gmail.com, athar.khan@mphasis.com, augustinpaul_j@astriyasolutions.com, avadhesh.s@hcl.com, avantika.a@naukri.c, avantika.a@naukri.com, avantika.verma@nityo.com, avijit_ghosh04@infosys.com, avinash.birudu@lntinfotech.com, awinagrar@gmail.com, ayanbanerjee202@gmail.com, aysha.s@pacific.co.in, refermyresume@hotmail.com,   ayushi.goel@naukri.com, ayushi.goel@novostack.com, azahar@nealanalytics.com, azam.ali@lntinfotech.com, b.babita@triadss.com, b.rajeevkumar@tva.co.in
+
+babita@samparksolutions.com, babitha.jayaram@brillio.com, bagavath.pathan@careernet.co.in, refermyresume@hotmail.com,   balaji.shivakumar@careernet.co.in, refermyresume@hotmail.com,   balakrishna.srinivasachar@gmail.com, balamoorthi.t@people-prime.com, balvinder@rangam.com, bandana.d@rgf-professional.com, bangalore@grcconsultants.net, baskar@cembs.com, bcom.avinash@gmail.com, beena.thomas@wns.com, benita@truetechsolutions.co.in, refermyresume@hotmail.com,   beulah@right-pitch.com, bhagyashree.b@technosoftcorp.com, bhagyashri.k@unifyworld.com, bhagyasreekasa@gmail.com, bhakti.p.r@happiestminds.com, bharath@rectras.com, bharathi@benedsoft.com, bharathoracle44@gmail.com, bhargavi.sitapara.pun@sampoorna.com, bharkavi@ramsolcorp.com, bhaskar.h@visionet.com, bhavna@credencehrservices.com, bhavya.adhikari@gds.ey.com, bhawana@kaale.in, refermyresume@hotmail.com,   bhumika.singh@iconicindia.com, bhuvaneshwari.s@in.experis.com, bhuvaneshwari_s@trigent.com, bhuvaneswareem@cbsiglobal.com, bibin.ramakrishan@negociosit.c, bibin.ramakrishan@negociosit.com, bijay@brainsearchindia.com, biju@neorems.com, bindu.mishra@omcareers.co.in
+
+biswarupbhattacharjee28@gmail.com, bloom3@bloomsolutions.com, bmc@booms.co.in, refermyresume@hotmail.com,   budhiram_kalasi@symantec.com, c1.bang.vatsala@adecco.co.in, refermyresume@hotmail.com,   ca.anurag10@gmail.com, cahanuman111@gmail.com, cakapoor.anamika@gmail.com, camanishjain3@gmail.com, career@gihospitalities.com, career@phenomplacement.com, careerjavaid25@gmail.com, careers.india@apexfunds.in, refermyresume@hotmail.com,   careers.mhfl@muthoot.com, careers@aycaglobal.com, careers@doyen.co.in, refermyresume@hotmail.com,   careers@falconnect.in, refermyresume@hotmail.com,   careers@groupfio.com, careers@lgb.co.in, refermyresume@hotmail.com,   careers@nobleserve.com, careers@savlagroup.in, refermyresume@hotmail.com,   careers@skylerglobalsolutions.com, careers@thirdware.com, carmal@diamondpick.com, casja1803@gmail.com, casupragyaelaul@gmail.com, casuranagaurav@gmail.com, cfaabhijitsharma@gmail.com, chaitanya.nataraj@tcs.com, chaithra.ks@ipromgroup.com, chanda@heedjobs.com, chandak.agarwal@gmail.com, chandra.tripathi@bhavyansh.in, refermyresume@hotmail.com,   chandra.tripathi@nityo.com, chandrashekhar.kamble@wipro.com, chandrav@virtusa.com
+
+charanya.k@saaconsulting.co.in, refermyresume@hotmail.com,   charu@kanbaninfosystem.com, charumathi.natarajan@freshworks.com, charvi.malik@nativeworld.com, chendhil.j@alpconsulting.in, refermyresume@hotmail.com,   chennai10@apexvisas.com, chethan.umapathi@wellsfargo.com, chitrav@valuewingcoe.com, chnn2@sampoorna.com, cmercy@athenahealth.com, compliance@naukri.com, complianceofficer@gandhitubes.com, connect@vanaassociates.com, consultkamesh@outlook.com, contact@dishahr.com, contact@techmasterscorp.com, contactarjun88@gmail.com, contactus@fjdirect.com, csanupam@hotmail.com, csingad@statestreet.com, ct14@convate.com, dah2careers@dbs.com, danish.md@quesscorp.com, darshan.gangadharan@cognizant.com, darshan.m@anlage.co.in, refermyresume@hotmail.com,   darshana.gangadharan@cognizant.com, darshana@shafalyams.com, debjanib@ixoraa.in, refermyresume@hotmail.com,   deekshith@practo.com, deepak.b.s@capgemini.com, deepak.ck@fidelituscorp.com, deepak.j@bloomsolutions.com, deepak.singla@piramal.com, deepak_kuknoor@epam.com, deepakrama@stgit.com, deepaksaini21@gmail.com
+
+deepam@green-tree.in, refermyresume@hotmail.com,   deepanjanc@virtusa.com, deepika1.chaudhary@in.ey.com, deevya.ca@gmail.com, devishree@agaramconsulting.com, devshree@credencehrservices.com, dhanabaln@hcl.com, dhanalakshmi.t-ext@alstomgroup.com, dhanashree.m@anlage.co.in, refermyresume@hotmail.com,   dhanish.t@tataelxsi.co.in, refermyresume@hotmail.com,   dhanya.ajay1@wipro.com, dhawan.samta1@gmail.com, dhayananth@truetechsolutions.in, refermyresume@hotmail.com,   dheepik@amazon.com, dheeraj.s@shellinfotech.com, dhirendra.singh@votarytech.com, dhruvpateldp9711@gmail.com, diksha.singh@careernet.co.in, refermyresume@hotmail.com,   diksha.thakur@accionlabs.com, dikshasen.ybhr@gmail.com, dileep@timetronic.in, refermyresume@hotmail.com,   dinaidu@teksystems.com, dinakarajan.vaiyapuri@csscorp.com, dineshsingh.thakur@teamlease.com, dipti@jobline.in, refermyresume@hotmail.com,   divya.aravindan@flybig.in, refermyresume@hotmail.com,   divya.b@anlage.co.in, refermyresume@hotmail.com,   divya.b@payoda.com, divya.k@sahasyaglobal.com, divya.patil@uucash.in, refermyresume@hotmail.com,   divya.shanmugam@innovasolutions.com, divya.sharma@capgemini.com, divya@strivex.com, divyabharathi.sivakumar@ness.com, djain@antal.com, dnyanesh@msourceone.com
+
+dnyaneshwar.patil@lntinfotech.com, domnic@astraconsulting.in, refermyresume@hotmail.com,   donotreply@naukri.com, doraangel.m@tvsi.com, dorsal.r@partner.samsung.com, drsaca1@gmail.com, durairaj@glaubentechnology.com, durairaj_a@onwardgroup.com, editorapplication@sportskeeda.com, edwin.nesamony@adecco.com, ekta.chorasiya@atos.net, elavarasan@inventechinfo.com, emailtorakeshmishra@gmail.com, er.rajatgupta92@gmail.com, erikssonmiles@gmail.com, fakkrudeen.ahamed@infinite.com, farha.khan@ondemandagility.com, fcarohitguptaagra@gmail.com, fkhan@mcfunding.com, gagandeep@symmetrical.in, refermyresume@hotmail.com,   ganesh.raju2@cognizant.com, ganesh.thik@3ds.com, gangu@chansys.net, gargi.basak@mphasis.com, garima.yadav@airodigitallabs.com, gaurav.tyagi1@tcs.com, gauravgarg30796@gmail.com, gawade.mayuresh92@gmail.com, gayathri.m@luminad.com, geeta.bisht@oracle.com, geeta.m@pacific.co.in, refermyresume@hotmail.com,   geetali@originhr.in, refermyresume@hotmail.com,   girish.recruiter@outlook.com, girish.s1@gds.ey.com, gishamary.r@teamlease.com, giyer.ops@gmail.com
+
+gomathy@panta.co.in, refermyresume@hotmail.com,   gopalakrishnan.g@in.in, refermyresume@hotmail.com,   gopinath17893@gmail.com, gowri.s@turnkey-ts.com, gowtham@blackwhite.in, refermyresume@hotmail.com,   gsathish@encoress.com, gunaselvi.dhanapal@in.experis.com, gupta.prash005@gmail.com, gurpreet.dhaliwal@in.pwc.com, gveeralla@innominds.com, hafiz.ajaney90@gmail.com, hajasarbudeena@virtusa.com, hari.singh@gds.ey.com, hari@valu2tek.com, harinath.rao@viteos.com, hariprasad.kmurthy@gmail.com, hariprasad.r@nortonlifelock.com, haripriya.natarajan@careernet.co.in, refermyresume@hotmail.com,   harisha.mv4@gmail.com, harjeet.grover@skillventory.com, harkanwal.riar@cars24.com, harpreet.r@anlage.co.in, refermyresume@hotmail.com,   harsha.r@indecomm.net, harshal.gokhale@wns.com, hbansal.architect@gmail.com, hemak@cbsiglobal.com, hemanarendra114@gmail.com, hepzi@terminalcontacts.com, hevyas@citco.com, hidayathulla.a@prospanceinc.com, hijaj@srassindia.com, himanshu.donepull@gmail.com, himanshu.shi@dynproindia.com, himanshu160381@gmail.com, hitesh.gwalani@infosys.com, hitesh.joshi@biggpocket.com
+
+hiteshbirla12@gmail.com, hjakhmola86@gmail.com, hlac17ca@gmail.com, hopper@hoppjobs.com, hparekh2005@hotmail.com, hr-ta@freshworks.com, hr.13@tnmhr.com, hr.aartvesh@gmail.com, hr.ahmedabad@venpastaffing.com, hr.blr@venpastaffing.com, hr.bmc6@gmail.com, hr.capstone@msglobal.co.in, refermyresume@hotmail.com,   hr.east@knowledgesplice.com, hr.rbtannaco@gmail.com, hr.vision2konnect@gmail.com, hr1swapnali@gmail.com, hr2.skylar@gmail.com, hr2.skylar@gmail.com, hr2@gemsoft.co.in, refermyresume@hotmail.com,   hr8@gennext.co.in, refermyresume@hotmail.com,   hr@ang.group, hr@ankurscientific.com, hr@bpgss.com, hr@caprco.in, refermyresume@hotmail.com,   hr@erammanpowerservices.com, hr@finacplus.com, hr@flybig.in, refermyresume@hotmail.com,   hr@globaledx.com, hr@hrtechos.com, hr@hrxcel.in, refermyresume@hotmail.com,   hr@incorpadvisory.in, refermyresume@hotmail.com,   hr@keystonetmg.com, hr@khadiessentials.com, hr@kppmca.in, refermyresume@hotmail.com,   hr@loomtex.com, hr@mbitwireless.com
+
+hr@orchestrate.com, hr@osiztechnologies.com, hr@peacock.solar, hr@rrsbforex.com, hr@talentlight.in, refermyresume@hotmail.com,   hr@vamosys.com, hr@vbengg.com, hr@vishvek.com, hrbacktowork@gmail.com, hrd5@focusoil.in, refermyresume@hotmail.com,   hrd@creativegroup.co.in, refermyresume@hotmail.com,   hrmgr@themismedicare.com, hrshruti.escreversolutions@gmail.com, hrteam@netmeds.com, hudson.kumar.chn@sampoorna.com, humaquest1@gmail.com, huntnbadge3@gmail.com, hyd5@gatewayvisas.com, hyd6@gatewayvisas.com, hyd9@livecjobs.com, icaigupta@gmail.com, ilakya.rajan@everi.com, imimsjobs@gmail.com, india.shiba@bizlynx.biz, indiajobhelpers@gmail.com, indiramani@isearchcs.com, induja.rajendran@freshworks.com, indumathi@isearchcs.com, info@arsenteam.com, info@enrichmanpower.com, info@hgca.in, refermyresume@hotmail.com,   info@rupeeforadian.com, info@sykasys.com, info@theinfinityspace.com, info@victoryhrconsultants.in, refermyresume@hotmail.com,   ini@6sos.com
+
+investmentbankingforum@gmail.com, iram.khan@pentagramconsulting.in, refermyresume@hotmail.com,   irfan.s@hcgel.com, isanjaysingh93@gmail.com, isha@bharatjobs.com, ishaagarwal@michaelpage.co.in, refermyresume@hotmail.com,   ishaan.vermani@infosys.com, ishani@green-tree.in, refermyresume@hotmail.com,   it@troi.in, refermyresume@hotmail.com,   itemergeus@gmail.com, itrecruiter@osiztechnologies.in, refermyresume@hotmail.com,   jabarajs@superiorgroup.in, refermyresume@hotmail.com,   jagdishsahu477@gmail.com, jagmeet@credencehrservices.co, jagmeet@credencehrservices.com, jahir.hussain@htcindia.com, jai@headhuntersinc.org, jaini.saraiya@asia.bnpparibas.com, jaishree@pdvpl.com, jan03aman@gmail.com, jasmeet@isoftservices.com, jasmeet@techfront.co.in, refermyresume@hotmail.com,   jaspreet.singh@acuitykp.com, jattar4214@gmail.com, jaya.l@randstad.in, refermyresume@hotmail.com,   jayachandra@lat36.com, jayantkothari1@gmail.com, jayaprakash.alur@gmail.com, jayasuryasps@gmail.com, jayshah19127@gmail.com, jennifer.11upskills@gmail.com, jerusha@metinc.com, jijo.john.pappachan@accenture.com, jisha.bawa@shiprocket.in, refermyresume@hotmail.com,   jitendra.vishwakarma@sampoorna.com, jnmitalco@rediffmail.com
+
+jobesh.m@nttdata.com, jobs.besant@gmail.com, jobs.sattvahuman@gmail.com, jobs@altshul.co.il, jobs@dayspring-its.com, jobs@genexcorp.com, jobs@godrive.co.in, refermyresume@hotmail.com,   jobs@infofaces.com, jobs@sampoorna.com, jobs@spmills.com, jobs@v3staffing.in, refermyresume@hotmail.com,   joelk@adventglobal.com, jose@covenantindia.net, josna.john@gartner.com, jothish.s90@wipro.com, junaid.kolya@viraj.com, jvyas@antal.com, jyothsna.n@stratosphere.co.in, refermyresume@hotmail.com,   k.c.pramod.mouli@accenture.com, kaiser.baig@exlservice.com, kajal.sisodia@talentica.com, kalpanamohan43@gmail.com, kalpesh.madlani@skpatodia.com, kamal@careerist.in, refermyresume@hotmail.com,   kanchan.anand@naukri.com, kanchan.s@technosoftcorp.com, kandavelkumar.lakshmanan@cesltd.com, kanika@globalsteadconsultants.com, kanna.sasaki@hcl.com, kaparthiv@virtusa.com, karen.rodricks@relianceada.com, karthick@ideas2it.com, karthik.bm7777@gmail.com, karthik.venkittu@saggezza.com, karthikeyan.s@viteos.com, kartik@mukulconsultants.com
+
+kashish@tekishub.com, kashwathappa@firstam.com, kauagarwal@deloitte.com, kaushik.ashish@tcs.com, kaushil@ca-careers.com, kavish.arora@piramal.com, kavita.a@anlage.co.in, refermyresume@hotmail.com,   kavita@iworksolutions.in, refermyresume@hotmail.com,   kavitha.jayakumar@careernet.co.in, refermyresume@hotmail.com,   kavithaodc11@gmail.com, kavya.girija@ust-global.com, kbhot@sscinc.com, keerthana.t@bct-consulting.com, keerthi.p@rightaxis.com, keerthi.panikar@wns.com, keerthika.k@kggroup.com, ketki@hoppjobs.com, kezia.keren@goldenhues.com, kgr2@ntrs.com, killivalavan.ganesan@careernet.co.in, refermyresume@hotmail.com,   kinjal@nityo.com, kiran.hanagi@careernet.co.in, refermyresume@hotmail.com,   kiran.jaitawat@infosys.com, kiran.tr31@gmail.com, kiran@itcan.biz, kirthi691@gmail.com, kirti@kanbaninfosystem.com, kmshiv@amazon.com, komala.d@hsbc.co.in, refermyresume@hotmail.com,   komathodi.ajay1984@outlook.com, kothariak.1967@gmail.com, kraja.besant@gmail.com, krishnamoorthyh@ducontindia.com, krishnaveni@logicplanet.com, ktushar9975@gmail.com, kunar.dillip@gmail.com
+
+kuttiraj.m@bct-consulting.com, lahoti.ritesh@gmail.com, lakshmi.viswanathan@bhrsconsulting.org, lakshmi@tekishub.in, refermyresume@hotmail.com,   lakshmikantha.byreddy@in.pega.com, lakshmipr@hcl.com, lalithat@sensiple.com, latha@vertexcorp.com, lathamadan@linktreeit.com, leelavathi@ramsolcorp.com, leena.amarnathdeokar@ext.asia.bnpparibas.com, leena@assortstaffing.com, leena_rochwani@kellyit.co.in, refermyresume@hotmail.com,   lekha@ramsolcorp.com, lokeshb@mashreq.com, louis.ramsol@gmail.com, luxmi@oitindia.com, lvasudevan@antal.com, m.mohan.deherkar@accenture.com, madhavreddy@livecjobs.com, madhurima.deshpande@acuitykp.com, madhuris@whyflexhcs.in, refermyresume@hotmail.com,   magesh.k@alpconsulting.in, refermyresume@hotmail.com,   mahalakshmi.kalanjiam@rbs.co.uk, mahalakshmi@tnhealthskills.com, mahalakshmis@covenantindia.net, mahesh.reddy@careernet.co.in, refermyresume@hotmail.com,   maheswari.kesavan@viteos.com, mail@uskca.co.in, refermyresume@hotmail.com,   mailcv108@gmail.com, maitri@nexwave.in, refermyresume@hotmail.com,   makrand.k@randstad.in, refermyresume@hotmail.com,   malar@in.in, refermyresume@hotmail.com,   malathi@valuewingcoe.com, malini.m@socgen.com, mallika@stratosphere.co.in
+
+mamatha.p@ehighpoints.net, manali@credencehrservices.com, manay.mahaom@capgemini.com, manish.sharma@capmoreinsurance.in, refermyresume@hotmail.com,   manish@intellectualcapital.co.in, refermyresume@hotmail.com,   manisha.r@rgf-professional.com, manisha.shetty@pidilite.com, manpreet.kaur@salasar-group.com, mansijani@rforc.com, mariyambee.shaikh@rblbank.com, marketing3@apexvisas.co.in, refermyresume@hotmail.com,   marockiyadass@encoress.com, mary@ramsolcorp.com, mayoladelitam@kpmg.com, mbighane@statestreet.com, md.faiyaz@infinite.com, mdhantole@yahoo.com, meenag@dsrc.co.in, refermyresume@hotmail.com,   meenu.mohan@joulestowatts.com, megha.jha@conceptshr.in, refermyresume@hotmail.com,   megha.m@lalsweets.com, megha@tdnewton.com, melvin.raj@mphasis.com, merlin@huntnbadge.com, merry.eapen@cognizant.com, mestryvarsha02@yahoo.com, mhogade1@gmail.com, mike@sampoorna.com, mindpowercapital@gmail.com, mirafra9@mirafra.com, mittali.a@focusite.com, mmallikarjunaiah@theoreminc.net, mmuthumani@ciber.com, mohamedkhan@vrikshasolutions.com, mohammedthaha.a@cognizant.com, mohanapriya@terminalcontacts.com
+
+mohank@spanidea.com, mohankumar.n@protivitiglobal.in, refermyresume@hotmail.com,   mohanrajk2007@gmail.com, mohanthota5151@gmail.com, mohd.k@pacific.co.in, refermyresume@hotmail.com,   mohit.sharma@kisanfinance.com, mohita@mentorzindia.com, mohitagrawal055@gmail.com, mojomanpower@gmail.com, monalisa@msourceone.com, monica.t21@wipro.com, monika@uospl.in, refermyresume@hotmail.com,   monika_j@infosys.com, monisha.pillai@nipponindiaamc.com, monisha@cssrecruit.com, monishacaroline.d@wns.com, mpavithra@enoahisolution.com, mr.bharath@bosch.com, mrudulasridhar@gmail.com, mspriya@valuewingcoe.com, mujimmil@asapinfosystems.com, mukeshjimehta@gmail.com, mumtaz.m@focusite.com, muneeswaran@dsrc.co.in, refermyresume@hotmail.com,   musa.hussain@careernet.co.in, refermyresume@hotmail.com,   muthulakshmi.muthupandi@careernet.co.in, refermyresume@hotmail.com,   muthulr@summitworks.in, refermyresume@hotmail.com,   n.ahuja@naukri.com, n.archana@randstad.in, refermyresume@hotmail.com,   nadeem@outlook.com, naga@trinityconsulting.asia, nagajothi@roljobs.com, nairgayatri@virtusa.com, nalinakshi_m@trigent.com, namarta.singh@naukri.com, nancy@alfaresources.in
+
+nancy@linktreeit.com, nandakumar.m@adecco.co.in, refermyresume@hotmail.com,   nandhini.m@nexwave.in, refermyresume@hotmail.com,   nandhini.purushothaman@prideglobal.com, nandhini.s@spstaffing.in, refermyresume@hotmail.com,   nandini.kumar@careernet.co.in, refermyresume@hotmail.com,   naresh_4477@yahoo.com, natalukdar@allegisglobalsolutions.com, natarajan.m@excelacom.in, refermyresume@hotmail.com,   naukri06@niranta.in, refermyresume@hotmail.com,   naukri1@pidginconsulting.com, naukri4@upgradehr.in, refermyresume@hotmail.com,   naveen.j.kumar@bnpparibas.com, nazia.tahseen@infosys.com, nbyramani@dxc.com, nchhabra4@csc.com, neeti.pandey@pyramidconsultinginc.com, neha.jahagirdar@mphasis.com, neha.salwi@indihire.co.in, refermyresume@hotmail.com,   neha.sharma@magna.in, refermyresume@hotmail.com,   neha.tiwari@unisoninternational.net, neha.wadhawan0704@gmail.com, neha.wadhawan@gds.ey.com, neha2.gupta@paytm.com, nehad@praxists.co.in, refermyresume@hotmail.com,   nehak.sscs@gmail.com, nehapandey@diamondpick.com, nethravathi.vb@indihire.co.in, refermyresume@hotmail.com,   newton@ajira.co.in, refermyresume@hotmail.com,   nibha.s@pacific.co.in, refermyresume@hotmail.com,   nidhi.gupta@naukri.com, nidhi@comefforts.com, nikhil.daware@credit-suisse.com, nikhil@bdgin.com, nikita.k@stratosphere.co.in, refermyresume@hotmail.com,   nikita.kalra@man-edge.com
+
+nikita.vaidya@atos.net, nikita@credencehrservices.com, nikitayadav@michaelpage.co.in, refermyresume@hotmail.com,   nikunj@selectglobal.co.in, refermyresume@hotmail.com,   nimi@mancerconsulting.com, nirma.g@pacific.co.in, refermyresume@hotmail.com,   nisha.shetty@etaashconsultants.com, nishi@think-apps.com, nishida.kunder@eclerx.com, nithya.y@tcs.com, nithyalakshmi.b@diamondpick.com, nitin@triviabiz.co.in, refermyresume@hotmail.com,   nivedha.sekar.chn@sampoorna.com, nivedita.wani@talentnetworks.co.in, refermyresume@hotmail.com,   nivetha@iwarecs.in, refermyresume@hotmail.com,   noor.shaikh@randstad.in, refermyresume@hotmail.com,   nrk5685@gmail.com, ns@rightadvisors.com, nsatheesh@csc.com, nsatheesh@dxc.com, nshrestha37@gmail.com, nyadhavi@sapient.com, obulesu@hiringideas.com, omkumaran.devaraj@gmail.com, omkumaran.devaraj@iopex.com, omprakashm@virtusa.com, oneoeight02@gmail.com, openings@pipecandy.com, orcapod.shilpee@gmail.com, orcapod.yogitamahour@gmail.com, p.govindarajan@in.experis.com, p.mahi@nexwave.in, refermyresume@hotmail.com,   p.nilima@aaxeleron.com, pajay369@gmail.com, palanikumar.s@digitalrisk.com, pallavi.singh@nlbservices.com
+
+pallavimishra0908@gmail.com, parameshwari.velumuthu@biworldwide.com, paras7385@gmail.com, parmplacement@yahoo.com, parth.desai@asia.bnpparibas.com, parth.j.desai@asia.bnpparibas.com, parthasarathi.k@bct-consulting.com, parul.gupta@anrisolutions.com, parul.sharma@globalhunt.in, refermyresume@hotmail.com,   pateldhara142@gmail.com, pavankumar.mhsd@cognizant.com, payal.dedhia@wowjobs.biz, payal.shahri@esselfinance.com, peeush@sonyocareers.com, pehiring@tdnewton.com, pgupta99@dxc.com, pinky.sharma@quantiphi.com, piyush.dadhich@ymail.com, pms@adroitfinancial.com, pooja.k@gsshrsolutions.com, pooja.poojary@imarkserv.com, pooja@enigmajobs.com, pooja@ideas2it.com, poojaranjan1990@gmail.com, poojaranjan1990@gmail.com..and, poonam26pawar@gmail.com, poonam@credencehrservices.com, poonam@theecsinc.com, poornashreegc@superiorgroup.in, refermyresume@hotmail.com,   poornimav@adventglobal.com, prabakaran.sakthivel@careernet.co.in, refermyresume@hotmail.com,   prabhu.radhakrishnan@tspl.com, prachigupta5459@gmail.com, prachityagi@trchadha.com, pradeep.h@synechron.com, pradeep.kumar@teledna.com
+
+pradeep@cssrecruit.com, pradeep@rectras.com, pradeepa.m@apar.com, pradeepkumar.peddi@invesco.com, pragati.gupta@neerinfo.com, pragati@lakshhr.com, prakruthi.h@uftech.com, pranitha.j@indihire.co.in, refermyresume@hotmail.com,   prasanna.kumar.g@jpmorgan.com, prasannask2@gmail.com, prashant.poojari@lntinfotech.com, prashant@gsshrsolutions.com, prashantha.kb@in.ibm.com, prashantshekharjain@gmail.com, prasshetty@allegisglobalsolutions.com, prathamesh.kalyankar@eclerx.com, prathiksha@peoplerealm.net, pratibha.sh@msourceone.com, pratibha@dishahr.com, pratiksha@credencehrservices.com, pratima.mathi@jpmchase.com, pratima@oitindia.com, pravin.dahake168@gmail.com, pravin.waghole@fdcindia.com, pravin@montekservices.com, pravinmanchuke@gmail.com, preethi@ideas2it.com, preeti@themojoconnect.com, preksha@credencehrservices.com, prema@truetechsolutions.in, refermyresume@hotmail.com,   prerna.m@jconnect.in, refermyresume@hotmail.com,   prince@smcpl.net, priti.s@pacific.co.in, refermyresume@hotmail.com,   priti.singh@people-nest.com, priya.kannan@bahwancybertek.com, priya.vargheese@redington.com
+
+priya.venugopal1@tcs.com, priya.vernekar@magna.in, refermyresume@hotmail.com,   priya.vernekar@quesscorp.com, priya.vittal@rbs.com, priya.ys.chn@sampoorna.com, priya@alphaeus.com, priya@credencehrservices.com, priyanka.agarwal@einsedu.in, refermyresume@hotmail.com,   priyanka.dhoundiyal4wiproref@gmail.com, priyanka.dhoundiyal4wiproref@gmail.com, priyanka.dudhe1@gmail.com, priyanka.kumaran1@tcs.com, priyanka.mali@synechron.com, priyanka.tuteja@naukri.com, priyanka@idctechnologies.com, priyku@amazon.com, pugazhenthi@diamondpick.com, puneet.singh@msourceone.com, puneethd23@gmail.com, punya@gsshrsolutions.com, purvi.rasal@lntinfotech.com, r.parthasarathy@tcs.com, rabbinder.m@htcindia.com, rachna.bansal@firstsource.com, radha@avtarcc.com, radhika.sharma@talocity.in, refermyresume@hotmail.com,   ragavendran.j@hcl.com, raghavan@sparkcapital.in, refermyresume@hotmail.com,   raghugunasekaran90@gmail.com, raghugunasekaran90@gmail.com, ragunath.gunasekaran@asia.bnpparibas.com, ragunath90@gmail.com, rahmanyounus9@gmail.com, rahulghorawat@gmail.com, raj@futuresofts.in, refermyresume@hotmail.com,   rajagopal@krgtech.com
+
+rajalakshmi.govindarajan@fisglobal.com, rajani@prijbs.com, rajavenkatesh.k@zen3tech.com, rajesh.k@pyramidconsultinginc.com, rajesh@msr-it.com, rajesh@sapphirinetech.com, rajeswarik@cbsiglobal.com, raji.s@resourceweaver.com, rajitha@macropace.com, rajlaxmi@amethystasiapartners.com, rajmca17@yahoo.com, rajni_burman@hcl.com, rajput.singh.ayush.hyd@gmail.com, raju.t@ceipal.com, rajuammu8787@gmail.com, rajusurisetti@kpmg.com, rajveersinghr1@equitasbank.com, rajyalakshmisunkana@gmail.com, rakesh@dishahr.com, rakhadiwala@gmail.com, rakhi.sharma@rangaminfotech.com, raktima@briskwinit.com, ram.prashanth@hcl.com, ramachandran.m@viteos.com, ramakrishnart@virtusa.com, ramasubbulakshmi.senthil@theoptimum.net, ramesh.m@in.experis.com, ramesh.m@websynergies.biz, ramkumar.s@thirdware.com, ramya@gsnhr.ne, ramya@resourceweaver.com, ramya@vmultiply.com, ranjithap@superiorgroup.in, refermyresume@hotmail.com,   ranjithkhumar.r@intelizign.com, ranjithkumar.g@techouts.com, rashmi.g.gupta@accenture.com
+
+rashmi.jaitley@infovisionlabs.com, rashmi.mall@firstsource.com, rashmi.mirajkar@adityabirlacapital.com, rashmi.subramanian@blueoptima.com, rasikak.palnitkar@infobeans.com, ravi.polisetti.hyd@sampoorna.com, ravi@concert-tech.com, ravinath.s@2coms.com, raviranjan.singh@harman.com, ravisankar.p@isgn.com, ravish@idrive.com, razia.k@randstad.in, refermyresume@hotmail.com,   reach.hafeezk@gmail.com, rebecca.gkc@gmail.com, recruit-india@millenniumci.com, recruit14@krelixir.com, recruit@pubmatic.com, recruiter@sureitinc.com, recruitment.corp@axissecurities.in, refermyresume@hotmail.com,   recruitment@esafbank.com, recruitment@snbindia.com, recruitment@suneratech.com, reddy.charan@careernet.co.in, refermyresume@hotmail.com,   redefinecareer2@gmail.com, reeba.j@thomasmount.com, reemam@credencehrservices.com, reena@aalacomtech.com, reesha.patwa1@osourceindia.com, refermyresume@hotmail.com, refermyjobs@hotmail.com, refermyjobs@hotmail.com, refermyresume@hotmail.com, rekha.jerald@pridetech.com, rekha.r@alpconsulting.in, refermyresume@hotmail.com,   renu@jobdepot.co.in, refermyresume@hotmail.com,   renugadevi@truetechsolutions.co.in
+
+reshma.kirang@wellsfargo.com, reshma.kumar@dentsuaegis.com, reshma@phoenixconsultants.com, response@hrsolutions.in, refermyresume@hotmail.com,   resume..kalyani.mitra@wipro.com, resume@acuitas.in, refermyresume@hotmail.com,   resume@unifiedhrservices.com, revathi@mojca.in, refermyresume@hotmail.com,   revathy_balamurugan@trimble.com, rghorawat@mmcindia.biz, richa.singrore@impetus.co.in, refermyresume@hotmail.com,   rimad@scaleneworks.com, rinku.agarwal@quantiphi.com, rinky.dhara@epicentertechnology.com, rinkydhara@gmail.com, ripltr@rangam.com, rishabh8321@gmail.com, rishi@theinfinityspace.com, rithvik.smurthy@incture.com, ritika.chawla@in.gt.com, ritika@mainstream.in, refermyresume@hotmail.com,   rka.futureplanners@gmail.com, rkumar@melstar.com, rnatarajan2671@altimetrik.com, rohit.dake@selectigence.com, roli@mounttalent.com, ronak.sequeira@xoriant.com, rookiesworld10@gmail.com, roopneet@mastermindnetwork.co.in, refermyresume@hotmail.com,   rosy@blackbag.in, refermyresume@hotmail.com,   rosy@talentcorner.in, refermyresume@hotmail.com,   rsandanala@innominds.com, rtamilmani@gembrill.com, rubika@bruhatinsights.com, ruchi.s@pacific.co.in, refermyresume@hotmail.com,   ruchi@capsag.com
+
+ruchij2020@gmail.com, rupali.gajananlahode@getronics.com, rupali.yede@infinite.com, rurehman@deloitte.com, rutuja.jadhav@crescendogroup.in, refermyresume@hotmail.com,   s.arunkumar@randstad.in, refermyresume@hotmail.com,   sabira.i@netscout-it.co.in, refermyresume@hotmail.com,   sachin.garg@collabera.com, sadathsh7@gmail.com, sadheeshkumars@virtusa.com, safoora@covenantindia.net, sagar@symmetrical.in, refermyresume@hotmail.com,   sagarora@deloitte.com, sahilpopli94@gmail.com, sai.kumar@mindtree.com, saicharankandikatla567@gmail.com, saidulu.battula@accenture.com, saikiran.c@cognizant.com, saikiran.m@technogeninc.com, sailakshmi@krgtech.com, sailee.m@litmusit.com, saili.pawar@intellectdesign.com, sainathan@nichehires.com, saira.h@anlage.co.in, refermyresume@hotmail.com,   sajan.devarajan@exterro.com, saket@phenomplacement.com, sakshi.juneja@black-turtle.in, refermyresume@hotmail.com,   sakshi23@green-tree.in, refermyresume@hotmail.com,   sales@vishvek.com, salinip@amazon.com, sam.diwan@gmail.com, sam@softtrends.co.in, refermyresume@hotmail.com,   samantha.santiago@ambit.co, samnani.manisha@tcs.com, sampriti.das@careernet.co.in, refermyresume@hotmail.com,   samrina.mannan@mazars.in
+
+samuel.bajaj@fortishealthcare.com, samuel.x.johnson@barclays.com, san.mysore@gmail.com, sana@tdnewton.com, sandeep.r@ampleleap.com, sandeep@midashrindia.com, sandeeppatnala01@gmail.com, sandesh@workflexi.in, refermyresume@hotmail.com,   sandhya.khinchee@adecco.com, sandybhogi01@gmail.com, sangeetha.kamaraj@careernet.co.in, refermyresume@hotmail.com,   sangeetha.rv@ipsgroup.co.in, refermyresume@hotmail.com,   sanil@lmsindia.in, refermyresume@hotmail.com,   sanjanaa@triumphsys.com, sanjay.kumar@prateekgroup.com, sanjo.joshi@careernet.co.in, refermyresume@hotmail.com,   sanjukta.patra@nationstarmail.com, sankeerthana@whyflexhcs.com, sankeerthana@whyflexhcs.in, refermyresume@hotmail.com,   sansunkad885@gmail.com, santhoshh@cbsiglobal.com, sanyalsadanandan@bdo.in, refermyresume@hotmail.com,   sapana.basvade.pun@sampoorna.com, saranyab@pixagons.net, sarath@edgeindia.com, saravanakumar@terminalcontacts.com, sargam@spinthejob.com, sarita.pardeshi@oracle.com, sarojini.s@anlage.co.in, refermyresume@hotmail.com,   sashu91@gmail.com, satakshi.jaiswal@talentlight.in, refermyresume@hotmail.com,   satbir.kaur@wipro.com, satheeshjagan@gmail.com, sathish03180704@gmail.com, sathiya.s@bct-consulting.com, sathyasai.r@lntinfotech.com
+
+satish.j@prathigna.co.in, refermyresume@hotmail.com,   satish@decentjob.in, refermyresume@hotmail.com,   satyag@caspex.com, saurabh.sharma@globalhunt.in, refermyresume@hotmail.com,   saylee@theedgeinasia.com, sc21894@gmail.com, sdas1d687f@statestreet.com, sdasari@ciber.com, selva@peoplezeal.com, senthil@themesoft.com, sghodke@sscinc.com, sgoswami@clearwateranalytics.com, shabnam_naushad@kellyocg.com, shafalyams@gmail.com, shahnawaz.zafar@luconconsulting.com, shaik.mohd@hcl.com, shaikmoin1994@gmail.com, shailja.chaurasia@eclerx.com, shailja.chaurasia@eclerx.in, refermyresume@hotmail.com,   shajitha@diamondpick.com, shalu@kanbaninfosystem.com, shambhavi.pandey@lntinfotech.com, shankar.97910@gmail.com, shanthini.p@aequor.com, shanti.anura1@gmail.com, sharadohri@deloitte.com, sharma.csshivani@gmail.com, shazmeen@pylonmc.com, sheela@valuewingcoe.com, sheena@grassik.com, sheetal.sangal@indecomm.net, sherlin.j@in.experis.com, sherry@healthcareersgroup.in, refermyresume@hotmail.com,   sherwood.kiruba@lntinfotech.com, sheryl.murray@ext.asia.bnpparibas.com, shettynitesh03@gmail.com
+
+shiba@bizlynx.biz, shikha.bisht@anacapfp.com, shikha.chauhan@nttdata.com, shikha.jhunjhunwala@eisneramper.com, shikha@tdnewton.com, shilpa.radhakrishna@morganstanley.com, shilpa@productiva.in, refermyresume@hotmail.com,   shipra.bansal@naukri.com, shirish.nair@gep.com, shirisha.n@infoexcelconsulting.com, shital.sakarde@wns.com, shivakanta@flexability.in, refermyresume@hotmail.com,   shivali.sharmai@in.experis.com, shivam.chauhan@alstrongindia.com, shivangi.innovsource@phonepe.com, shivangi.t@pacific.co.in, refermyresume@hotmail.com,   shivani.choudhary@protivitiglobal.in, refermyresume@hotmail.com,   shivani.subramanian@intellectdesign.com, shobha.gurnoor@satvrin.com, shradha.mahadik@ltts.com, shravankumar.vodela@tcs.com, shree.deeksha@pidginconsulting.com, shreesamridhi03@gmail.com, shreya1@kpmg.com, shrimi.s@totalitglobal.com, shrishma.g@hcl.com, shruthi.acharaya@skillventory.com, shruthi.acharaya@skillventory.comj, shruthi.rangaraj@ifocussystec.com, shruti.ingale@nativeworld.com, shruti_k@hcl.com, shubhangi.soni@black-turtle.in, refermyresume@hotmail.com,   shweta.c@anlage.co.in, refermyresume@hotmail.com,   shweta.com@anlage.co.in, refermyresume@hotmail.com,   shweta.jha@evalueserve.com, shweta.s@apar.com
+
+shyleesh@amazon.com, siddhartha.basu3@gmail.com, simoni@meshlinks.in, refermyresume@hotmail.com,   simplify@accuprosys.com, simran.sabharwal@ambitcollective.com, sindhu.ks@mphasis.com, sindhu@nilasu.com, singh.karan@incedoinc.com, siva.s3@tcs.com, siva.shanthini@disys.com, siva2@resourceweaver.com, sivajimp@virtusa.com, sivakumar.ma@technosoftcorp.com, sivamidhun55@gmail.com, skdamini.surbhi@gmail.com, slavanya@melstar.com, smilesunny2@yahoo.com, smilesunnytwo@gmail.com, smita.s.dive@relianceada.com, smita.singh@alepo.com, smita@sigmacorpsolutions.com, smriti.singh@axa-abs.co.in, refermyresume@hotmail.com,   sneha.b6@tcs.com, sneha.p@mphasis.com, sneha.paul@firstsource.com, snigdha.tiwari@naukri.com, software@nodway.in, refermyresume@hotmail.com,   solomonrajadurai@gmail.com, somnath.biswas@hirepro.in, refermyresume@hotmail.com,   sona.somanna@greatwest.com, sonakshi.k@joulestowatts.com, sonal.k@anlage.co.in, refermyresume@hotmail.com,   sonal@sellcraft.net, sonali.wagh@mancerconsulting.com, sonali@conceptsconsultants.com, sonali@corporatemantra.com
+
+sonam.prasad@barclays.com, soofia.khan@black-turtle.in, refermyresume@hotmail.com,   soumya.nair@ust-global.com, soumya.s@aarchsol.com, soumya@s2infotech.com, soumyajit.niyogi@indiaratings.co.in, refermyresume@hotmail.com,   sourabhigi@gmail.com, sourcer.1@technojobz.com, sowmiya.sethu@careernet.co.in, refermyresume@hotmail.com,   sowmiya@fourentech.com, sowmya.upadhyaya@careernet.co.in, refermyresume@hotmail.com,   sowmya@indihire.co.in, refermyresume@hotmail.com,   sowmya@indihire.com, spbetha@cloudbourne.com, speedyyjob@gmail.com, sravani.c.hyd@sampoorna.com, sravani.com.hyd@sampoorna.com, sravani.k@imimobile.com, sravani@arisegs.com, sree.lochana@hcl.com, sreeja.pillai@morganstanley.com, sreejaya.warrier02@gmail.com, sreevalsan.anand@nativeworld.com, sriharsha.nagaraja@arisglobal.com, srilekha.g@vipanygroup.com, srinivas.m@maitspl.com, sripriya.mohan@careernet.co.in, refermyresume@hotmail.com,   sripriya@ideas2it.com, srividhya@ideas2it.com, srmohanr@allegisgroup.com, srushtishukla@michaelpage.co.in, refermyresume@hotmail.com,   steffi.gard@eclerx.com, stephen.d.p@hsbc.co.in, refermyresume@hotmail.com,   sterlin@notionpress.com, subashri.murugan@tcs.com, subba.rao@jobworldindia.com
+
+subhashini.sudhakar@accenture.com, subhashree.lingala@tcs.com, subrajit.n@twsol.com, suchetha@wizecareers.com, sudeshna.sarkar@franklintempleton.com, sudha.dharupalli@infovisionlabs.com, sudhavasanth@fundsindia.com, sudheer@tccomputerservices.com, suganya@peoplefirst.co.in, refermyresume@hotmail.com,   suhaelahamedc@hcl.com, sujatha.arava@arxtlabs.com, sukhmani.gulati@rbs.com, sumaiya1009@gmail.com, sumaja@businessintelli.com, suman.mudaliar@tcs.com, suman_joshi@contractor.amat.com, sumathi.c@prodapt.com, sumathi.com@prodapt.com, sumitha.sridharan@infosys.com, sumithasri1990@gmail.com, sumouli.banik@gmail.com, sunai@valuewingcoe.com, sundaramoorthy.mani@biworldwide.com, sundari@shellitservices.com, sunil.gulati@wns.com, sunil.kamath@colt.net, sunil.kumar@careernet.co.in, refermyresume@hotmail.com,   sunilk@vertogic.com, sunny.paul@careernet.co.in, refermyresume@hotmail.com,   sunny@astoriatalent.in, refermyresume@hotmail.com,   supporthiring@nodway.in, refermyresume@hotmail.com,   supriya.kondreddy@otsi.com, surajthepair@gmail.com, surendrareddymuli@gmail.com, suresh.k2be7ef@cognizant.com, sureshbabu.n@technosoftcorp.com
+
+sureshkv155@gmail.com, suriyakala.rajasekaran@theoptimum.net, surjith@tmangoes.com, suruthi.s@chainsys.com, suryakant.khuntia@adventz.com, susan.s@diamondpick.com, sushant.kumar2@wns.com, sushma.j@gaussnetworks.com, sushma.m@2coms.com, susmita@greenbridge.net.in, refermyresume@hotmail.com,   suvetha@headhuntersinc.co.in, refermyresume@hotmail.com,   suvidha.dixit@skillventory.com, sv250@dxc.com, swarnareddy1998@gmail.com, swaroop.r@flexability.in, refermyresume@hotmail.com,   swathi@vfindsolutions.com, swati.bhawar@wns.com, swati.d@jconnect.in, refermyresume@hotmail.com,   swati.k@vipanygroup.com, swati.singh@adlent.co.in, refermyresume@hotmail.com,   swatibhunia@smcfinance.com, swatiinibm@gmail.com, sweety9to6@gmail.com, sweety@9to6consultants.com, sweta@blitzjobs.in, refermyresume@hotmail.com,   swetha.r@technosoftcorp.com, swetha.sri@dltlabs.io, sws12@ntrs.com, syeda.faheem@shellinfotech.com, syeda.faheem@shellinfotech.com, sylvia.cs@fisglobal.com, taniya@ext.dun, taniya@ext.dunzo.in, refermyresume@hotmail.com,   tanmay.singhania@transfast.com, tanusree.sinha@careernet.co.in, refermyresume@hotmail.com,   tanveer.m@randstad.co.in
+
+taral.oza@skfin.net, tarun77sharmahr@gmail.com, technoworkz@gmail.com, teena@credencehrservices.com, tej.shekhawat@idfcbank.com, tejaswi@businessintelli.com, tejaswik@bpnts.com, tejaswini.mahapatro@karvy.com, tellect@gmail.com, tenureconsulting@gmail.com, thakkardarshita960@gmail.com, thamarai.selvi@tataelectronics.co.in, refermyresume@hotmail.com,   thamil.malar.k@walmartlabs.com, thangamani.veeramani@careernet.co.in, refermyresume@hotmail.com,   theniram@amazon.com, thenmozhis@newtglobal.com, thilakadevi.moorthi@valeo.com, thimmaraya.sundharam@careernet.co.in, refermyresume@hotmail.com,   thrishela@cambio.co.in, refermyresume@hotmail.com,   tina.vij@bankofamerica.com, toanusha.k@randstad.in, refermyresume@hotmail.com,   tripti.harjeet@gmail.com, tripti.harjeet@gmail.com, tripti.soni@kotak.com, triveni.n@bryte-side.com, trm2@velankanigroup.com, tulika.srivastava@edelweissfin.com, tushar.soni@outlook.com, twmourya@allegisgroup.com, udaya.adavala@ness.com, udaykumar.k@imimobile.com, uditbhojani@michaelpage.co.in, refermyresume@hotmail.com,   uma.maheswari@equiniti.com, uma.p@molvenoconsulting.com, unnimaya.suresh@wipro.com, usha.2055352@randstad.co.in
+
+usha@powerthroughitconsulting.com, utsav_dalmia@yahoo.com, v.dhanalakshmi@nityo.com, v.sumathi@vectone.com, vaanishree321@gmail.com, vaibhavtripathi@kpmg.com, vakilshardik@gmail.com, valuewing14@valuewingcoe.com, valuewing21@valuewingcoe.com, vamsikrishna99@gmail.com, vanir@virtusapolaris.com, vardhini.sekar@disys.com, varsha.sri@randstad.in, refermyresume@hotmail.com,   varsha@spjindal.com, varun.teja@shellinfotech.com, varungupta.688@gmail.com, vasudevan2.s@tcs.com, vconsultant03@gmail.com, veera@eagateways.net, venkataraman.g@rotork.com, venkatesh.alwarsamy@careernet.co.in, refermyresume@hotmail.com,   venkateshnaramsetti17@gmail.com, venugopalg@wavelabs.ai, vibhagsao@gmail.com, vibhore_vishnoi@infosys.com, vidhi.chauhan@in.experis.com, vidhyah.prasad@careernet.co.in, refermyresume@hotmail.com,   vidyasagar@vedainfo.in, refermyresume@hotmail.com,   vignesh.balachandran@accenture.com, vignesh.haldurai@careernet.co.in, refermyresume@hotmail.com,   vigneshwaran.paramasivam@bnymellon.com, vigram23@in.ibm.com, vijaya.thirukolluri@in.experis.com, vijayram.singh@lntinfotech.com, vikas.bhasin@manpower.com, vikash.baid@wns.com
+
+vikram.hs@appnomic.com, vikramvarma.r@hcl.com, vinay.lodha@eisneramper.com, vinay@rainfo.in, refermyresume@hotmail.com,   vini.ramakrishnan@olxpeople.com, vinit.malani96@gmail.com, vinita.mehar@globalhunt.in, refermyresume@hotmail.com,   vinita@aimshr.co.in, refermyresume@hotmail.com,   vinod.s@iopex.com, vinoth.h@nityo.com, vinoth@pylonmc.com, vinothini.v@iplannerinc.com, vinothr@summitworks.in, refermyresume@hotmail.com,   vinuthna.pranav@gmail.com, vipin.saboo1@in.ey.com, vishakhajham19@gmail.com, vishal.parab@ubs.com, vishal.sawant1@hdfcbank.com, vishal@careerist.in, refermyresume@hotmail.com,   vishalisweety@diamondpick.com, vishnu@hcl.com, vishruta.patil@aarchsol.com, vishwanath.gunasekaran@careernet.co.in, refermyresume@hotmail.com,   viswanathan_s07@infosys.com, viswarao90@gmail.com, vivek.kumar.del@sampoorna.com, vivek.tyagi@nangia.com, vivekmalapati17@gmail.com, vjwrecruitment3@hcl.com, wingshrthree@gmail.com, yanamadala.s@infosys.com, yashaswini.babu@accenture.com, yasodha.besant89@gmail.com, ydhilipkumar@temenos.com, yogasri@careeroneindia.com, yogesh.babu@in.experis.com
+
+yogesh.hr@petroexceltech.com, yogesh@beyondvp.com, yogesh@ybconsultants.com, yuva@valuewingcoe.com, yuvaraj.b@bahwancybertek.com, yuvaraju@prodigyrecruit.com, yuvarani.barthasarathi@careernet.co.in, refermyresume@hotmail.com,   zarina@busisol.net, zeel.doshi@idfcfirstbank.com, zoheb.jafri@ashvaallterrain.com

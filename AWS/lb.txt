@@ -1,0 +1,151 @@
+
+S3 
+
+Bucket policy - for all the object in the bucket
+ACL- when you want give permission to specific object in the bucket
+
+Access point - internet or VPC
+
+when you want different level for permision for different person for all the object in the bucket
+
+
+A VPC peering connection is a networking connection between two VPCs that enables you to route traffic between them privately. Instances in either VPC can communicate with each other as if they are within the same network. 
++You can create a VPC peering connection between your own VPCs, with a VPC in another AWS account, or with a VPC in a different AWS Region
+
+AWS PrivateLink establishes private connectivity between virtual private clouds (VPC) and services hosted on AWS or on-premises, without exposing data to the internet.
+
+A VPC endpoint enables you to privately connect your VPC to supported AWS services and VPC endpoint services powered by AWS PrivateLink 
+without requiring an internet gateway, NAT device, VPN connection, or AWS Direct Connect connection. Instances in your VPC do not require public IP addresses to communicate with resources in the service.
+ Traffic between your VPC and the other service does not leave the Amazon network.
+
+Dirrect Connect
+
+VPC inerface endpoint
+
+VPC Gateway endpoint - S3 and dynamoDB
+
+
+SQL VS DynamoDB
+
+SQL -send sql querry and get the response, schema is required 
+DYDB - send http request methos and get response, schema less
+
+Dydb- Tables, Items, and Attributes and Primary Key.
+partion Key (HASH) should be unique
+Sort Key (RANGE) can have duplicate
+
+DAX  -in memeory acceleatory
+
+CREATE TABLE -same
+
+SELECT *
+FROM Music
+WHERE Artist='No One You Know' AND SongTitle = 'Call Me Today'
+
+aws dynamodb get-item --consistent-read \
+    --table-name Music \
+    --key '{ "Artist": {"S": "Acme Band"}, "SongTitle": {"S": "Happy Day"}}'
+aws dynamodb update-item \
+    --table-name Music \
+    --key '{ "Artist": {"S": "Acme Band"}, "SongTitle": {"S": "Happy Day"}}' \
+    --update-expression "SET AlbumTitle = :newval" \
+    --expression-attribute-values '{":newval":{"S":"Updated Album Title"}}' \
+    --return-values ALL_NEW
+
+
+GetItem, SCAN and Querry
+
+In a relational database, an index is a data structure that lets you perform fast queries on different columns in a table.
+
+
+
+
+
+
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET",
+            "PUT",
+            "POST"
+        ],
+        "AllowedOrigins": [
+            "*"
+        ],
+        "ExposeHeaders": []
+    }
+]
+
+
+ "logs:CreateLogStream",
+                "logs:DescribeLogStreams",
+                "logs:PutLogEvents
+
+=====================================================================================================
+
+Origin Settings - S3 REST API
+
+Redirect http to https
+
+Default Cache Behavior Settings
+=================================
+
+Distribution settings
+
+
+Compress Objects Automatically
+
+
+=====================================
+
+
+import boto3
+from pprint import pprint
+client = boto3.client('ec2')
+# this code will start instance using filter as Tag name
+tag_test_env={'Name': 'tag:TestEnv','Values': ['Yes']}
+for each_ins in client.describe_instances(Filters=[tag_test_env])['Reservations']:
+ for inst_id in each_ins['Instances']:
+  #print? (inst_id['InstanceId'])
+  client.start_instances(InstanceIds=[inst_id['InstanceId']])
+
+# this code will stop instance using filter as Tag name
+tag_test_env={'Name': 'tag:TestEnv','Values': ['Yes']}
+for each_ins in client.describe_instances(Filters=[tag_test_env])['Reservations']:
+ for inst_id in each_ins['Instances']:
+  #print? (inst_id['InstanceId'])
+  client.stop_instances(InstanceIds=[inst_id['InstanceId']])
+  print ("stopping Instances now")
+
+
+
+Login into the AWS console using IAM user credentials (URL: https://aws.amazon.com/ and Account Id: 391935002928) 
+
+Login to the instance and open the cmd prompt and run the below command  
+
+Stop TOMCAT webserver - Move to Tomcat bin directory and run the below command 
+
+cd  "c:\Program Files\Apache Software Foundation\Tomcat 9.0\bin" 
+
+Run shutdown.bat 
+
+Copy the latest war file from S3 
+
+aws s3 cp s3://ocr-build-artifacts/non-prod/OCRRestService.war c:\Users\Administrator\Documents 
+
+Copy the WAR file to Tomcat Webapps folder   
+
+Copy  “c:\Users\Administrator\Documents\OCRRestService.war”  "c:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps” 
+
+Start the TOMCAT- Move to Tomcat bin directory and run the below command 
+
+cd  "c:\Program Files\Apache Software Foundation\Tomcat 9.0\bin" 
+
+Run startup.bat 
+
+Verify the deployment using sample pdf  using the below url 
+
+https://ocr.transcelerate-gcp-mutual-recognition.com/OCRRestService/getPdfDetails?referenceId=000001&provider=BCompliant%20cc&pdfURL=https://sqt-master.s3.amazonaws.com/16523_CCTS-certificate.pdf 

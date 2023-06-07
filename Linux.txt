@@ -1,0 +1,25 @@
+https://www.bogotobogo.com/DevOps/DevOps_Artifacts_Artifactory_Sonatype_Nexus_Maven_Artifact_Repository_Apache_Archiva.php
+
+
+Linux 
+--------
+/etc/sysconfig/jenkins
+/var/lib/jenkins
+/etc/hosts
+/etc/profile
+
+
+
+ssk-keygen
+------------------
+Master Slave Architecture  -https://github.com/miztiik/DevOps-Demos
+•	Bring an instance
+•	Move to HOME_DIR and “Ssh-key gen” to generate public and private keys
+•	Modify the permission
+•	Copy the public key to Authorized_key folder
+•	In master copy the publickey to .ssh/know_hosts folder 
+•	Ssh-key-Scan to connect to slave
+•	In Jenkins UI create gobbal credentials with slave username and private key 
+
+
+maven - revison - link

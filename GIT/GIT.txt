@@ -1,0 +1,24 @@
+Fast forward merge
+git merge --ff-only
+Merges the branches and moves the destination branch pointer to the tip of the source branch. This is the default merge strategy in Git.
+
+Squash and merge
+git merge --squash
+Combines all commits from the source branch into a single merge commit in the destination branch.
+
+3-way merge
+git merge --no-ff
+Creates a merge commit and adds individual source commits to the destination branch.
+
+ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+ Production Branch to Development
+Set next release to <(JiraID-JiraTitle)>
+feature branch to f/
+bug fix branch to b/
+release branch to r/
+hotfix branch to h/
+support branch to s/
+version tag to v0.0.0.0
+hooks and filters as blank

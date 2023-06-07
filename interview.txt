@@ -1,0 +1,32 @@
+Tell About your self
+-------------------------------------------
+Your current rolls and responsibilty
+------------------------------------------------
+
+where have you implemented end to end devops process in your work 
+
+------------------------------------------------------------
+Bash/Unix shell scripting - can you give example for bash/powershell script 
+which you have written to automation
+--------------------------------------------------------------
+Difference between Ansible and terraform
+
+Ansible  - Error handling in playbooks and Dynamic inventory , Galaxy and Roles VS play book
+
+Terraform 
+---------------------------------------------
+
+Load balancer and Auto scalling - difference between 
+
+desiered/ min/max values
+
+VPC and Networking infra for your application
+----------------------------------------------------
+Cloudfront, cloudwatch and IAM
+
+Difference between Container and Virtualization
+
+Advantage of virtualization
+
+------------------------------------------------------
+

@@ -1,0 +1,15 @@
+version: 0.0
+os: linux
+files:
+  - source: /TranscelerateOCR/target/OCRRestService.war
+    destination: /opt/apache-tomcat-9.0.44/webapps/
+hooks:
+  BeforeInstall:
+    - location: /stop_server
+      timeout: 60
+      runas: root
+  ApplicationStart:
+    - location: /start_server
+      timeout: 60
+      runas: root
+

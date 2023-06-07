@@ -1,0 +1,60 @@
+ansible.cfg - default configuration file
+inventory=path , libirary , fork =5(no of system it can parallely) 
+
+hosts - default inventory file 
+
+roles
+
+module [ping, command, copy, fetch, yum]- code/program used to execute task in host system
+
+inventory.ini 
+
+Playbook - begin with --- and contains
+-hosts
+ task:
+ -
+
+varaible - group_vars and host_vars
+
+ansible-playbook -i host create_user.yml --extra-vars "user_name=priya"
+
+condition - when[when ansible_os_family = linux instal hhtp if debian apache2], loop, with_items[to install multiple packages], notify_handlers 
+
+notify and handler - 
+
+roles - reuseability we can share the playbook with other teams
+      - insteady of writing complex playbook in single file we can split and manage playbook in a beter way
+      - so that we can modify in oneplace
+below are the directiory created in role
+- task, handlers, files, vars, defaults
+
+ansible-galaxy
+
+dynamic inventory
+
+vault:
+
+ansible-vault create safe.yml (store secret in file ) with vault password
+ansible-vault view safe.yml
+
+amsible-vault encrypt
+
+error handling
+
+shell script - nohup
+
+adhoc cmmand [module - extract package, get_url]
+----------------
+ansible all -m ping
+
+ansible all -m command -a "uptime"
+
+ansible all -m user -a "name=modi"
+
+ansible all -m yum -a "name=git"
+
+ansible -i inventory -m yum -a "name=git" -b ===> -b to become root user
+
+----------------------------------------
+
+ansible-playbook create_user.yml
