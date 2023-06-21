@@ -1,0 +1,147 @@
+
+==========================================================================
+https://medium.com/@harith.sankalpa/a-complete-guide-to-install-sonarqube-server-in-amazon-linux-ed1fee227d81
+
+
+https://techexpert.tips/sonarqube/sonarqube-installation-on-the-cloud-aws-ec2/
+
+https://devopscube.com/setup-and-configure-sonarqube-on-linux/
+
+https://www.milliondollarserver.com/2018/09/install-postgresql-96-on-amazon-linux-2.html
+
+https://blog.crosslaketech.com/setting-sonarqube-aws-code-analysis-github-repos/
+
+https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/
+
+https://blog.shikisoft.com/restrict-amazon-s3-bucket-access-on-cloudfront/
+
+https://docs.aws.amazon.com/whitepapers/latest/serverless-architectures-lambda/deployment.html
+
+https://github.com/aws-samples/aws-serverless-workshops
+
+
+CloudFront distribution will be used to serve the website to viewers with low latency and to make sure website is not directly accessible from S3 bucket.
+----------------------------------------------------------
+
+Cloudfront returns 403 forbidden when refreshing page
+-----------------------------------------------------
+https://stackoverflow.com/questions/46497969/cloudfront-returns-403-forbidden-when-refreshing-page#:~:text=S3%20responds%20403%20when%20an,pages%20in%20client%20side%20routing.&text=I%20have%20noticed%20this%20happens,serve%20cached%20version%20when%20available.
+
+https://aws.amazon.com/premiumsupport/knowledge-center/s3-website-cloudfront-error-403/
+
+https://www.youtube.com/watch?v=DiIaoIcoKNY
+
+https://medium.com/@channaly/how-to-host-static-website-with-https-using-amazon-s3-251434490c59
+
+
+aws cloudfront get-invalidation --id I3RY5DIYRY6I5Q --distribution-id E2X4LTX3Q8M6C
+
+===================================
+serverless
+
+https://github.com/DevOpsPlayground/Hands-on-with-Serverless-CI-CD-Pipelines-on-AWS
+
+https://medium.com/hatchsoftware/setting-up-ci-cd-for-lambda-functions-using-aws-codepipeline-880567769dde
+
+https://medium.com/@sh_in/how-to-deploy-aws-lambda-functions-using-codepipeline-313207f75f53
+
+https://aws.amazon.com/blogs/compute/building-testing-and-deploying-java-applications-on-aws-lambda-using-maven-and-jenkins/
+
+https://www.simform.com/serverless-examples-aws-lambda-use-cases/
+
+Hyper V not enabled hence not able to start the docker services
+
+==========================
+API gateway
+https://medium.com/@reginald.johnson/implementing-an-authentication-flow-part-1-initial-design-1c12d1febd7c
+
+https://stackoverflow.com/questions/38987256/aws-api-gateway-cors-post-not-working
+
+https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html#apigateway-enable-cors-proxy
+
+https://www.serverless.com/blog/cors-api-gateway-survival-guide
+
+==========================
+sonar integration
+https://medium.com/@kpiroddi/creating-a-aws-codecommit-pull-request-workflow-with-terraform-2e57138cef95
+
+https://aws.amazon.com/blogs/devops/validating-aws-codecommit-pull-requests-with-aws-codebuild-and-aws-lambda/
+
+https://www.freecodecamp.org/news/validate-pull-requests-in-aws/
+
+https://aws.amazon.com/blogs/devops/integrating-sonarqube-as-a-pull-request-approver-on-aws-codecommit/
+
+https://aws.amazon.com/blogs/devops/integrating-sonarcloud-with-aws-codepipeline-using-aws-codebuild/
+
+https://medium.com/@harshanas/integrate-sonarcloud-with-aws-codecommit-and-codebuild-186ad80a109
+
+-----------------------------
+
+AWS Cognito
+===================================
+
+Enlear Academy
+
+https://aws.amazon.com/blogs/security/how-to-add-authentication-single-page-web-application-with-amazon-cognito-oauth2-implementation/
+
+https://www.javacodegeeks.com/2019/04/amazon-cognito-single-page-application-vue.html
+
+====================================
+-----------------------------------------------------
+
+AWS official documentation
+---------------------------
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/???????
+
+Serverles documentaion
+-------------------------
+https://serverless-idm.awssecworkshops.com/01-user-auth/
+
+AWS cognito workflow
+-------------------------
+https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_AWS_Identity_Using_Amazon_Cognito_for_serverless_consumer_apps_SEC403-R1.pdf
+
+https://epsagon.com/tools/a-quickstart-guide-to-aws-cognito-lambda-and-ses/
+
+https://thenewstack.io/understanding-aws-cognito-user-and-identity-pools-for-serverless-apps/
+
+https://medium.com/hackernoon/aws-cognito-user-pools-or-identity-pools-what-do-i-use-to-secure-my-api-1d69cfbe99e1
+
+https://aws.amazon.com/premiumsupport/knowledge-center/cognito-custom-scopes-api-gateway/
+
+https://gist.github.com/faermanj/abc31d2fefca6701e87a9e3a9e885c18
+
+https://spr.com/securing-aws-api-gateway-with-congito-user-pools/
+
+https://github.com/aws-amplify/amplify-js
+
+https://github.com/aws-amplify/amplify-js/tree/master/packages
+
+https://www.youtube.com/watch?v=EaDMG4amEfk
+
+===============================
+S3 presigned
+
+https://theburningmonk.com/2020/04/hit-the-6mb-lambda-payload-limit-heres-what-you-can-do/
+
+https://medium.com/@KanishkSrivastava/upload-files-to-s3-using-lambda-and-api-gateway-severless-bb8d8cdc30e4
+
+codepipilene -
+---------------------
+
+https://aws.amazon.com/blogs/devops/adding-custom-logic-to-aws-codepipeline-with-aws-lambda-and-amazon-cloudwatch-events/
+
+========================================================================================
+
+cloudwatch
+==============
+https://www.youtube.com/watch?v=vAnIhIwE5hY
+https://www.petefreitag.com/item/870.cfm
+https://www.youtube.com/watch?v=hCnIa21TpLQ
+
+
+AWS lambda
+https://aws.amazon.com/blogs/compute/choosing-between-aws-lambda-data-storage-options-in-web-apps/#:~:text=Temporary%20storage%20with%20%2Ftmp,Lambda%20invocations%20to%20optimize%20performance.
+https://aws.amazon.com/blogs/compute/using-amazon-efs-for-aws-lambda-in-your-serverless-applications/
+https://dev.to/frosnerd/monitoring-aws-lambda-functions-with-cloudwatch-1nap
+

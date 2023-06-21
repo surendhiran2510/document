@@ -30,3 +30,55 @@ Advantage of virtualization
 
 ------------------------------------------------------
 
+
+
+
+1. Will PM login with Dashboard seperately
+2. 
+
+
+
+
+
+
+https://www.pm.transcelerate-gcp-mutual-recognition.com/home
+
+Exception in thread "AWT-EventQueue-0" java.lang.ClassCastException: sun.java2d.HeadlessGraphicsEnvironment cannot be cast to sun.awt.Win32GraphicsEnvironment
+
+{"message":"java.io.FileNotFoundException: C:\\Program Files (x86)\\Apache Software Foundation\\Tomcat 9.0\\bin\\ManipulatedFiles\\CITI-Canada-GCP-V2.pdf_wm4.jpg (The system cannot find the file specified)","responseCode":400}
+
+CvException [org.opencv.core.CvException: cv::Exception: OpenCV(4.3.0) C:\build\master_winpack-bindings-win64-vc14-static\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+]
+
+
+T.BhSh(K%;N)M(nmxY2EbF*B%=O4SZlj
+
+
+2021-02-22T18:50:15
+
+2021-02-22T18:50:27 -> OCR <one fnc latency 2 to 3 >
+
+2021-02-22T18:50:37 -> after response 
+
+2021-02-22T18:50:38
+
+
+2021-02-22T18:57:37
+021-02-22T18:57:49
+----------------------------------------------------
+2021-02-22T18:58:08
+2021-02-22T18:58:40
+=============================
+
+2021-02-22T18:59:30
+2021-02-22T19:01:41
+
+2021-02-22T18:58:08.998+05:30
+
+GCP-Site
+--------
+https://uat.transcelerate-gcp-mutual-recognition.com
+
+PM dasboard
+-------------
+https://uat.pm.transcelerate-gcp-mutual-recognition.com
