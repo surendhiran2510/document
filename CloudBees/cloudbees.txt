@@ -1,0 +1,225 @@
+docker run -d -p 8080:8080 -p 50000:50000 -v jenkins-data:/var/jenkins_home cloudbees/cloudbees-core-oc 
+
+
+curl -LO https://downloads.cloudbees.com/cbsupport/stable/cbsupport.exe ^
+  && curl -LO https://downloads.cloudbees.com/cbsupport/stable/cbsupport.exe.sha256 ^
+  && shasum -c cbsupport.exe.sha256
+
+
+you are an expert in Jenkins and Cloudbees CI, CD/RO adn SDA DevOps tools. write an outline for powerpoint presentation covering the following topics. make it number of slide. wait for the topics
+
+https://www.youtube.com/watch?v=JmVWz2PFVA0
+
+
+
+=============================================
+AGENDA
+
+1. Overview of Jenkins and CloudBees CI Capapbilities - Theory
+2. Plugins Installation and Integration - Demo + theory
+3. PipeLine fundamental ,Parameters, and Environment Variables Creation:(Decelrative Pipeline, Groovy Shared Library) Demo + theory
+4. CloudBees CI enterprise Capapbilities (Pipeline template, Pipeline Policy and Configuration as Code) Theory
+5. CloudBees CD/RO Feature walkthrough - theory 
+
+===============================
+
+Built on the most widely used automation server in the world, Jenkins™, CloudBees CI offers flexible, governed CI/CD you can rely on.
+
+There are many reasons to implement CI. When you integrate and build your code early and often, it helps you detect problems and conflicts early on, rather than weeks or even months after they’re created. You also help your developers by getting the feedback earlier too.
+
+
+Jenkins and Cloubees CI Enterprise capabilities on the follwing topics 
+
+1. General Understanding Walkthrough of OSS Jenkins:
+
+Introduction to CloudBees Jenkins and its role in CI/CD.
+Overview of key features and benefits.
+Explanation of how CloudBees enhances Jenkins for enterprise use.
+Any specific features or add-ons provided by CloudBees.
+
+
+3. Plugins Installations and Integration with Tools (EX: GITHUB, MAVEN)
+
+Overview of Jenkins plugins and their role in extending functionality.
+Step-by-step guide on installing and managing plugins.
+Highlighting some essential plugins for CI/CD.
+Integration with version control systems and build tools
+Any other third-party tool integrations relevant to your workflow.
+
+
+2. Procedure, Template, Parameters, and Environment Variables Creation:
+
+Step-by-step guide on creating a Jenkins job.
+Explanation of job templates and their advantages.
+Setting up parameters for job flexibility.
+Configuring and using environment variables in jobs.
+
+
+
+4. DSL Editor Jenkins Config File Walkthrough of Pipeline:
+
+Introduction to the DSL (Domain Specific Language) editor.
+Walkthrough of the pipeline script configuration using the DSL editor.
+Demonstration of how to version control and manage pipeline scripts.
+
+6. Cloudbees CI Introduction:
+
+Difference B/W OSS Jenkins and Cloudbees CI
+Creating and configuring CI pipelines in CloudBees Jenkins.
+
+
+7. CD/RO Introduction 
+Introduction to Continuous Deployment (CD) and Release Orchestration (RO).
+Setting up CD pipelines in CloudBees Jenkins.
+
+
+Explanation of dependencies in CD/RO pipelines.
+Creating and managing checkpoints for ensuring a stable release.
+Strategies for handling rollbacks and recovery in case of failures.
+
+
+
+You will learn how CloudBees CI provides comprehensive 
+
+centralized team management with features to manage Jenkins 
+configuration as code, 
+create and share templates for Jenkins pipelines, 
+enforce pipeline policies 
+simplify collaboration across disparate development teams.
+
+\\
+
+=====================================\\
+
+
+AGENDA
+
+1. Overview of CloudBees Capapbilities vs Basics of Jenkins vs - Theory
+2. Plugin Integration - Demo + theory
+3. PipeLine fundamental (Decelrative Pipeline, Groovy Shared Library) Demo + theory
+4. CloudBees CI enterprise Capapbilities (Pipeline template, Pipeline Policy and Configuration as Code) Theory
+5. CloudBees CD/RO Feature walkthrough - theory 
+
+
+Cloud Enterprise Capapbilities
+
+
+CloudBees CI is a fully featured, cloud-native capability that can be hosted on-premises or in the public cloud used to deliver CI at scale. It provides a shared, centrally managed, self-service experience for all your development teams running Jenkins.
+
+Attendees will learn the best practices of automating Jenkins pipelines, how to manage continuous integration at scale and gain an understanding of a developer-centric experience for software delivery. Specifically, we'll cover how CloudBees CI, which offers enterprise functionality for Jenkins, can help attendees:
+
+Features of Cloudbees CI
+
+1. Pipeline Policy 
+2. Pipeline Template
+3. Configuration as COde
+Section 07 - Use Folders to Organize Builds
+Automating Tasks with CLI and API
+4. Build Notiifacation in Github 
+5. Team Management
+
+Deploy configuration-as-code at scale
+Configure full environments using human-readable YAML files
+Onboard projects quickly with pre-configured templates and policies
+Apply best practices to better control resources and CI pipelines
+=========================================
+
+eksctl create iamserviceaccount \
+  --cluster=eks-workshop \
+  --namespace=kube-system \
+  --name=aws-load-balancer-controller \
+  --role-name AmazonEKSLoadBalancerControllerRole \
+  --attach-policy-arn=arn:aws:iam::095014417075:policy/AWSLoadBalancerControllerIAMPolicy \
+  --approve
+
+
+helm install aws-load-balancer-controller eks/aws-load-balancer-controller \
+  -n kube-system \
+  --set clusterName=eks-workshop \
+  --set serviceAccount.create=false \
+  --set serviceAccount.name=aws-load-balancer-controller \
+  --set region=us-west-2 \
+  --set vpcId=vpc-01bb0b9a264ccf2be 
+
+
+
+=======================
+
+create a storage class for dynamic provisioning
+----------------------------------------------
+Prerequisite
+This example requires Kubernetes 1.17 or later and a driver version of 1.2.0 or later.
+
+Create a storage class for Amazon EFS.
+
+helm upgrade --install cloudbees-core \
+               cloudbees/cloudbees-core \
+               --namespace cloudbees-core \
+               -f values.yaml
+
+============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

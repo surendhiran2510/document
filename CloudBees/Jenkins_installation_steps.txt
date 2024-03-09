@@ -1,0 +1,40 @@
+1. Spinning up EC2 Instance.
+	Amazon Linux AMI - t2.large
+	Create KeyPair - PEM file keypair
+	
+
+----------------------------------------
+2. Cloudshell integration with EC2
+
+	copy pem file to cloudshell path
+	navigate to ec2 connect and grab the ssh connect command 
+	chmod 400 permissions given
+
+------------------------------------------
+3. Docker installation
+
+sudo yum update
+sudo yum search docker
+sudo yum info docker
+sudo yum install docker
+sudo systemctl enable docker.service
+sudo systemctl start docker.service
+docker version
+
+---------------------------------------
+
+4. Jenkins image run 
+
+docker run -d --name jenkins -p 8080:8080 -v $PWD/jenkins/ jenkins/jenkins
+Access the jenkins with public IP
+docker logs jenkins
+
+---------------------------------------
+
+5. Modify security group
+
+Add 8080 inbound tcp rule
+
+---------------------------------------
+6. Running hello world
+cat /etc/os-release
